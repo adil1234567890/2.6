@@ -46,4 +46,20 @@ http://primeboss.live:826/NYOZRumT5J/HMRo3LcfLQ/98807
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport 1
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14657
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport 2
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1992
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport 3
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14659
+
+#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Main Event
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14753
+
+#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Football
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/16970
+
+#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Premier league
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/4458
+
+
 
