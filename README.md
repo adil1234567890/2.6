@@ -58,11 +58,14 @@ http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14659
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport ESPN
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1980
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport Box Office (Live during events only)
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport Box Office (Events Only)
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/23754
 
+#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Box Office (Events Olny)
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/16969
+
 #EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Main Event
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14753
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/5600
 
 #EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports News
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1954
@@ -76,6 +79,10 @@ http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/4458
 #EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Cricket
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/5601
 
+
+#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Arena
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/16969
+
 #EXTINF:-1, tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="Sports",Eurosport 1
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/13091
 
@@ -84,6 +91,12 @@ http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/13092
 
 #EXTINF:-1, tvg-logo="https://www.thisisanfield.com/wp-content/uploads/PROP150218-018-Liverpool_Press_Conf.jpg" group-title="Sports",LFC TV
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3568
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png" group-title="Sports",UFC Fight Pass (US)
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/18170
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1200px-NBC_logo_%282013%29.svg.png" group-title="Sports",NBC Sports Network (US)
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/9008
 
 #EXTINF:-1, tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg" group-title="International",Star Gold
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/12351
