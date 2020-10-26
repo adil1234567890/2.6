@@ -62,7 +62,7 @@ http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1980
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/23754
 
 #EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Box Office (Events Olny)
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/16969
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14756
 
 #EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Main Event
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/5600
