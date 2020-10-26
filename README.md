@@ -1,5 +1,5 @@
 #EXTINF:-1, tvg-logo="http://www.throup.org.uk/images/doctor_who/bbc_one.png" group-title="Entertainment",BBC 1
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14755
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14696
 
 #EXTINF:-1, tvg-logo="http://w444ww.stickpng.com/assets/images/5842ab62a6515b1e0ad75b09.png" group-title="Entertainment",BBC 2
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3581
