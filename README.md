@@ -95,6 +95,9 @@ http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3568
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png" group-title="Sports",UFC Fight Pass (US)
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/18170
 
+#EXTINF:-1, tvg-logo="https://static-s.aa-cdn.net/img/ios/587799142/9cad727c9773dcc9c3911e8311a70a9e" group-title="Sports",BoxNation
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/4010
+
 #EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1200px-NBC_logo_%282013%29.svg.png" group-title="Sports",NBC Sports Network (US)
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/9008
 
