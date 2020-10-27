@@ -149,6 +149,26 @@ http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3926
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Sci-fi and Horror
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1957
 
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/11425
+
+#EXTINF:-1, tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-cbbc_final--default--512.jpg" group-title="Kids",CBBC 
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/12348
+
+#EXTINF:-1, tvg-logo="https://img.favpng.com/4/16/6/cbeebies-cbbc-logo-television-show-png-favpng-7xGUGJQ007d7ZPkhXSfG4XjrL.jpg" group-title="kids",CBEEBIES
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3582
+
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/1200px-CITV_logo_2013.svg.png" group-title="kids",CITV
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/9588
+
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/lB3DYvSjv7o/hqdefault.jpg" group-title="kids",Cartoon Network
+http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3967
+
+
+
+
+
+
 
 
 
