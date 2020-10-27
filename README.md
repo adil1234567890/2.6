@@ -155,13 +155,13 @@ http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/11425
 #EXTINF:-1, tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-cbbc_final--default--512.jpg" group-title="Kids",CBBC 
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/12348
 
-#EXTINF:-1, tvg-logo="https://img.favpng.com/4/16/6/cbeebies-cbbc-logo-television-show-png-favpng-7xGUGJQ007d7ZPkhXSfG4XjrL.jpg" group-title="kids",CBEEBIES
+#EXTINF:-1, tvg-logo="https://img.favpng.com/4/16/6/cbeebies-cbbc-logo-television-show-png-favpng-7xGUGJQ007d7ZPkhXSfG4XjrL.jpg" group-title="Kids",CBEEBIES
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3582
 
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/1200px-CITV_logo_2013.svg.png" group-title="kids",CITV
+#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/1200px-CITV_logo_2013.svg.png" group-title="Kids",CITV
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/9588
 
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/lB3DYvSjv7o/hqdefault.jpg" group-title="kids",Cartoon Network
+#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/lB3DYvSjv7o/hqdefault.jpg" group-title="Kids",Cartoon Network
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3967
 
 
