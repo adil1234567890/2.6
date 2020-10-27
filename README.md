@@ -134,9 +134,6 @@ http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/15025
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Action and Adventure
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3559
 
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Comedy
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/
-
 #EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Crime and Thriller
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/20118
 
