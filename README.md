@@ -1,6 +1,5 @@
 #EXTINF:-1, tvg-logo="http://www.throup.org.uk/images/doctor_who/bbc_one.png" group-title="Entertainment",BBC 1
-http://51.52.156.22:8888/http/004
-
+http://149.202.215.151:8080/live/home/home/11526.ts
 #EXTINF:-1, tvg-logo="http://w444ww.stickpng.com/assets/images/5842ab62a6515b1e0ad75b09.png" group-title="Entertainment",BBC 2
 http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3581
 
