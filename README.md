@@ -1,164 +1,1913 @@
-#EXTINF:-1, tvg-logo="http://www.throup.org.uk/images/doctor_who/bbc_one.png" group-title="Entertainment",BBC 1
-http://149.202.215.151:8080/live/home/home/11526.ts
-#EXTINF:-1, tvg-logo="http://w444ww.stickpng.com/assets/images/5842ab62a6515b1e0ad75b09.png" group-title="Entertainment",BBC 2
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3581
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/4/49/BBC_Parliament_Logo.svg/1024px-BBC_Parliament_Logo.svg.png" group-title="Entertainment",BBC Parliament
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14681
-
-#EXTINF:-1, tvg-logo="http://1.bp.blogspot.com/-QWqQyvJOq48/UKYfGGm4teI/AAAAAAAAPtI/2GwGKiImZTI/s1600/ITV+logo+2013.png" group-title="Entertainment",ITV 1
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3576
-
-#EXTINF:-1, tvg-logo="http://vignette1.wikia.nocookie.net/logopedia/images/3/35/ITV2_logo_2015.svg/revision/latest/scale-to-width-down/200?cb=20150812190405" group-title="Entertainment",ITV 2
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3577
-
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/milgreen/images/8/83/ITV3_logo_2013.svg.png/revision/latest?cb=20130216080019" group-title="Entertainment",ITV 3
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14738
-
-#EXTINF:-1, tvg-logo="https://media.info/i/lf/300/1405279456/1384.png" group-title="Entertainment",ITV 4
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/12346
-
-#EXTINF:-1, tvg-logo="https://s3-eu-west-1.amazonaws.com/c4-cp-assets/corporate-assets/styles/16_9_ratio_large/s3/2019-02/All4-Press-270219-1_0.jpg?h=a92f03cd&itok=xbkS2J8_" group-title="Entertainment",Channel 4
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14890
-
-#EXTINF:-1, tvg-logo="https://d24j9r7lck9cin.cloudfront.net/l/o/1/1515.1405603197.png" group-title="Entertainment",4 Seven
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3961
-
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/90/More4_2012.svg/revision/latest/scale-to-width-down/340?cb=20190815145806" group-title="Entertainment",More 4
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/4000
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/c/c8/Gold_2014.svg/1280px-Gold_2014.svg.png" group-title="Entertainment",Gold
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14963
-
-#EXTINF:-1, tvg-logo="https://i.pinimg.com/originals/03/70/a4/0370a4b4d7e3bb2acae3b10f166f454f.jpg" group-title="Entertainment",Discovery 
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14863
-
-#EXTINF:-1, tvg-logo="https://res.cloudinary.com/uktv/image/upload/h_450,q_80,w_800/v1583426259/ohradk6ioi5vnapd8jus.jpg" group-title="Entertainment",Dave
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14967
-
-#EXTINF:-1, tvg-logo="https://image.roku.com/developer_channels/prod/7b998860d56f7ef500243d391c4925422e85de804fc73f80a71f0ec65f3a6b36.png" group-title="Entertainment",E!
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3966
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/f/ff/BBC_News.svg/1280px-BBC_News.svg.png" group-title="News",BBC News
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14701
-
-#EXTINF:-1, tvg-logo="https://www.bing.com/th?id=OIP.6SV3gdQRL1OWvbQQDm_RRAHaCO&pid=Api&rs=1" group-title="News",Sky News
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3570
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport 1
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14657
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport 2
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1992
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport 3
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14659
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport ESPN
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1980
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ea/BT_Sport_logo_2019.svg/1200px-BT_Sport_logo_2019.svg.png" group-title="Sports",BT Sport Box Office (Events Only)
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/23754
-
-#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Box Office (Events Olny)
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14756
-
-#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Main Event
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/5600
-
-#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports News
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1954
-
-#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Football
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/16970
-
-#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Premier league
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/4458
-
-#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Cricket
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/5601
-
-
-#EXTINF:-1, tvg-logo="https://premierleague-static-files.s3.amazonaws.com/premierleague/photo/2017/07/25/4d2849cb-473e-48de-859b-87a7a626b6af/SKY_SPORTS_WITHOUT_KEYLINE_RGB_crop.png" group-title="Sports",Sky Sports Arena
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/16969
-
-#EXTINF:-1, tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="Sports",Eurosport 1
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/13091
-
-#EXTINF:-1, tvg-logo="https://layout.eurosport.com/i/v8/logo/logo-esp-og-new.jpg" group-title="Sports",Eurosport 2
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/13092
-
-#EXTINF:-1, tvg-logo="https://www.thisisanfield.com/wp-content/uploads/PROP150218-018-Liverpool_Press_Conf.jpg" group-title="Sports",LFC TV
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3568
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UFC_Logo.svg/1200px-UFC_Logo.svg.png" group-title="Sports",UFC Fight Pass (US)
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/18170
-
-#EXTINF:-1, tvg-logo="https://static-s.aa-cdn.net/img/ios/587799142/9cad727c9773dcc9c3911e8311a70a9e" group-title="Sports",BoxNation
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/4010
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/8/82/NBC_logo_%282013%29.svg/1200px-NBC_logo_%282013%29.svg.png" group-title="Sports",NBC Sports Network (US)
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/9008
-
-#EXTINF:-1, tvg-logo="https://admin.thecricketer.com/weblab/sites/96c8b790-b593-bfda-0ba4-ecd3a9fdefc2/resources/images/site/stargold190301-min.jpg" group-title="International",Star Gold
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/12351
-
-#EXTINF:-1, tvg-logo="https://www.rapidtvnews.com/images/2019/Feb_2019/Colors_logo_-_26_February_2019.jpeg" group-title="International",Colors
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1988
-
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/-xGfcRGje8Y/hqdefault.jpg" group-title="International",Dunya News
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14881
-
-#EXTINF:-1, tvg-logo="https://q7h8x4g8.stackpathcdn.com/wp-content/uploads/2017/12/ARY-Family.png" group-title="International",ARY Family
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/28174
-
-#EXTINF:-1, tvg-logo="https://yt3.ggpht.com/a/AATXAJxNTl3dJ1il3EpfNCgsLVPCw_DoNuDsZDKuP3ilRw=s900-c-k-c0xffffffff-no-rj-mo" group-title="International",ARY Digital
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/21538
-
-#EXTINF:-1, tvg-logo="https://seeklogo.com/images/G/geo-news-logo-512D289714-seeklogo.com.png" group-title="International",Geo Network
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/14838
-
-#EXTINF:-1, tvg-logo="https://logodix.com/logo/1765932.png" group-title="International",Hum Europe
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/21535
-
-#EXTINF:-1, tvg-logo="https://logodix.com/logo/1765932.png" group-title="International",Hum World
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/21536
-
-#EXTINF:-1, tvg-logo="https://iqra.tv/wp-content/uploads/2019/12/Iqra-Logo-Web-01.png" group-title="International",Iqra TV
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/25584
-
-#EXTINF:-1, tvg-logo="https://www.bizasialive.com/wp/wp-content/uploads/2018/01/noortv001.jpg" group-title="International",Noor TV
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/15025
-
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Action and Adventure
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3559
-
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Crime and Thriller
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/20118
-
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Disney
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/20110
-
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Family
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3926
-
-#EXTINF:-1, tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/0/0b/SkyCinema3D.png/revision/latest?cb=20160709150103" group-title="Movies",Sky Cinema Sci-fi and Horror
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/1957
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/4/45/BabyTV.png" group-title="Kids",Baby TV
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/11425
-
-#EXTINF:-1, tvg-logo="https://media-assets-01.thedrum.com/cache/images/thedrum-prod/s3-cbbc_final--default--512.jpg" group-title="Kids",CBBC 
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/12348
-
-#EXTINF:-1, tvg-logo="https://img.favpng.com/4/16/6/cbeebies-cbbc-logo-television-show-png-favpng-7xGUGJQ007d7ZPkhXSfG4XjrL.jpg" group-title="Kids",CBEEBIES
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3582
-
-#EXTINF:-1, tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/CITV_logo_2013.svg/1200px-CITV_logo_2013.svg.png" group-title="Kids",CITV
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/9588
-
-#EXTINF:-1, tvg-logo="https://i.ytimg.com/vi/lB3DYvSjv7o/hqdefault.jpg" group-title="Kids",Cartoon Network
-http://tv.hyper.iptv.uno:80/idara2004/Y7ZTQT330/3967
+#EXTINF:-1,UK: 4SEVEN FHD
+http://62.182.81.111:8000/stef01/stef01/16955
+#EXTINF:-1,UK: BBC 4 HD
+http://62.182.81.111:8000/stef01/stef01/18716
+#EXTINF:-1,UK: BBC First FHD
+http://62.182.81.111:8000/stef01/stef01/16259
+#EXTINF:-1,UK: BBC Entertainment HD
+http://62.182.81.111:8000/stef01/stef01/16319
+#EXTINF:-1,UK: EDEN FHD
+http://62.182.81.111:8000/stef01/stef01/18427
+#EXTINF:-1,UK: BT SPORT 1 FHD
+http://62.182.81.111:8000/stef01/stef01/16361
+#EXTINF:-1,UK: BT SPORT 2 HD
+http://62.182.81.111:8000/stef01/stef01/16362
+#EXTINF:-1,UK: BT SPORT 3 FHD
+http://62.182.81.111:8000/stef01/stef01/16363
+#EXTINF:-1,USA: HALLMARK FHD
+http://62.182.81.111:8000/stef01/stef01/16608
+#EXTINF:-1,USA: NATIONAL GEOGRAPHIC FHD
+http://62.182.81.111:8000/stef01/stef01/16733
+#EXTINF:-1,USA: NBA TV FHD
+http://62.182.81.111:8000/stef01/stef01/16418
+#EXTINF:-1,USA: CNN
+http://62.182.81.111:8000/stef01/stef01/16530
+#EXTINF:-1,NFL Gamepass 1
+http://62.182.81.111:8000/stef01/stef01/16778
+#EXTINF:-1,NFL Gamepass 2
+http://62.182.81.111:8000/stef01/stef01/16777
+#EXTINF:-1,NFL Gamepass 3
+http://62.182.81.111:8000/stef01/stef01/16776
+#EXTINF:-1,NFL Gamepass 4
+http://62.182.81.111:8000/stef01/stef01/16775
+#EXTINF:-1,NFL Gamepass 5
+http://62.182.81.111:8000/stef01/stef01/16774
+#EXTINF:-1,NFL Gamepass 6
+http://62.182.81.111:8000/stef01/stef01/16773
+#EXTINF:-1,NFL Gamepass 7
+http://62.182.81.111:8000/stef01/stef01/16772
+#EXTINF:-1,NFL Gamepass 8
+http://62.182.81.111:8000/stef01/stef01/16771
+#EXTINF:-1,NFL Gamepass 9
+http://62.182.81.111:8000/stef01/stef01/16770
+#EXTINF:-1,NFL Gamepass 10
+http://62.182.81.111:8000/stef01/stef01/16769
+#EXTINF:-1,NFL Gamepass 11
+http://62.182.81.111:8000/stef01/stef01/16768
+#EXTINF:-1,NFL Gamepass 12
+http://62.182.81.111:8000/stef01/stef01/16767
+#EXTINF:-1,NFL Gamepass 13
+http://62.182.81.111:8000/stef01/stef01/16766
+#EXTINF:-1,NFL Gamepass 14
+http://62.182.81.111:8000/stef01/stef01/16765
+#EXTINF:-1,NFL Gamepass 15
+http://62.182.81.111:8000/stef01/stef01/16764
+#EXTINF:-1,NFL Gamepass 16
+http://62.182.81.111:8000/stef01/stef01/16763
+#EXTINF:-1,NHL Gamepass channel guide (CEST)
+http://62.182.81.111:8000/stef01/stef01/16841
+#EXTINF:-1,NHL Gamepass 1
+http://62.182.81.111:8000/stef01/stef01/16825
+#EXTINF:-1,NHL Gamepass 2
+http://62.182.81.111:8000/stef01/stef01/16839
+#EXTINF:-1,NHL Gamepass 3
+http://62.182.81.111:8000/stef01/stef01/16838
+#EXTINF:-1,NHL Gamepass 4
+http://62.182.81.111:8000/stef01/stef01/16837
+#EXTINF:-1,NHL Gamepass 5
+http://62.182.81.111:8000/stef01/stef01/16836
+#EXTINF:-1,NHL Gamepass 6
+http://62.182.81.111:8000/stef01/stef01/16835
+#EXTINF:-1,NHL Gamepass 7
+http://62.182.81.111:8000/stef01/stef01/16834
+#EXTINF:-1,NHL Gamepass 8
+http://62.182.81.111:8000/stef01/stef01/16833
+#EXTINF:-1,NHL Gamepass 9
+http://62.182.81.111:8000/stef01/stef01/16832
+#EXTINF:-1,NHL Gamepass 10
+http://62.182.81.111:8000/stef01/stef01/16831
+#EXTINF:-1,NHL Gamepass 11
+http://62.182.81.111:8000/stef01/stef01/16830
+#EXTINF:-1,NHL Gamepass 12
+http://62.182.81.111:8000/stef01/stef01/16829
+#EXTINF:-1,NHL Gamepass 13
+http://62.182.81.111:8000/stef01/stef01/16828
+#EXTINF:-1,NHL Gamepass 14
+http://62.182.81.111:8000/stef01/stef01/16827
+#EXTINF:-1,NHL Gamepass 15
+http://62.182.81.111:8000/stef01/stef01/16826
+#EXTINF:-1,PEPPA PIG 24/7
+http://62.182.81.111:8000/stef01/stef01/16842
+#EXTINF:-1,TR: BEIN SPORTS 1 FHD
+http://62.182.81.111:8000/stef01/stef01/16385
+#EXTINF:-1,TR: BEIN SPORTS 2 FHD
+http://62.182.81.111:8000/stef01/stef01/16386
+#EXTINF:-1,TR: BEIN SPORTS 3 FHD
+http://62.182.81.111:8000/stef01/stef01/16387
+#EXTINF:-1,TR: BEIN SPORTS 4 FHD
+http://62.182.81.111:8000/stef01/stef01/16388
+#EXTINF:-1,TR: BEIN SPORTS HABER HD
+http://62.182.81.111:8000/stef01/stef01/16439
+#EXTINF:-1,TR: TV 8.5 FHD
+http://62.182.81.111:8000/stef01/stef01/16442
+#EXTINF:-1,TR: TV 8 FHD
+http://62.182.81.111:8000/stef01/stef01/16443
+#EXTINF:-1,TR: TRT HABER FHD
+http://62.182.81.111:8000/stef01/stef01/16444
+#EXTINF:-1,TR: TRT 1 FHD
+http://62.182.81.111:8000/stef01/stef01/16445
+#EXTINF:-1,TR: STAR TV FHD
+http://62.182.81.111:8000/stef01/stef01/16446
+#EXTINF:-1,TR: SHOW TV FHD
+http://62.182.81.111:8000/stef01/stef01/16447
+#EXTINF:-1,TR: KANAL D FHD
+http://62.182.81.111:8000/stef01/stef01/16448
+#EXTINF:-1,TR: KANAL 7 FHD
+http://62.182.81.111:8000/stef01/stef01/16449
+#EXTINF:-1,TR: FOX CRIME FHD
+http://62.182.81.111:8000/stef01/stef01/16450
+#EXTINF:-1,TR: BEYAZ TV FHD
+http://62.182.81.111:8000/stef01/stef01/16451
+#EXTINF:-1,TR: ATV FHD
+http://62.182.81.111:8000/stef01/stef01/16452
+#EXTINF:-1,TR: A2 FHD
+http://62.182.81.111:8000/stef01/stef01/16453
+#EXTINF:-1,TR: FX FHD
+http://62.182.81.111:8000/stef01/stef01/16455
+#EXTINF:-1,TR: TRT SPOR FHD
+http://62.182.81.111:8000/stef01/stef01/16458
+#EXTINF:-1,TR: BEIN SERIES VICE FHD
+http://62.182.81.111:8000/stef01/stef01/16469
+#EXTINF:-1,TR: BEIN SERIES DRAMA FHD
+http://62.182.81.111:8000/stef01/stef01/16470
+#EXTINF:-1,TR: BEIN SERIES COMEDY FHD
+http://62.182.81.111:8000/stef01/stef01/16471
+#EXTINF:-1,TR: HABER TURK FHD
+http://62.182.81.111:8000/stef01/stef01/16521
+#EXTINF:-1,TR: TRT BELGESEL FHD
+http://62.182.81.111:8000/stef01/stef01/16573
+#EXTINF:-1,TR: MOVIE SMART TURK FHD
+http://62.182.81.111:8000/stef01/stef01/16597
+#EXTINF:-1,TR: MOVIE SMART PLATIN 1 FHD
+http://62.182.81.111:8000/stef01/stef01/16598
+#EXTINF:-1,TR: MOVIE SMART PLATIN 2 FHD
+http://62.182.81.111:8000/stef01/stef01/16599
+#EXTINF:-1,TR: MOVIE SMART FAMILY FHD
+http://62.182.81.111:8000/stef01/stef01/16601
+#EXTINF:-1,TR: MOVIE SMART CLASSIC FHD
+http://62.182.81.111:8000/stef01/stef01/16602
+#EXTINF:-1,TR: MOVIE SMART ACTION FHD
+http://62.182.81.111:8000/stef01/stef01/16603
+#EXTINF:-1,TR: MOVIE SMART PREMIUM 2 FHD
+http://62.182.81.111:8000/stef01/stef01/16604
+#EXTINF:-1,TR: MOVIE SMART PREMIUM 1 FHD
+http://62.182.81.111:8000/stef01/stef01/16605
+#EXTINF:-1,TR: A HABER HD
+http://62.182.81.111:8000/stef01/stef01/16673
+#EXTINF:-1,TR: ULKE FHD
+http://62.182.81.111:8000/stef01/stef01/16691
+#EXTINF:-1,TR: BEIN SPORTS MAX 2 HD
+http://62.182.81.111:8000/stef01/stef01/16746
+#EXTINF:-1,TR: BEIN SPORTS MAX 1 HD
+http://62.182.81.111:8000/stef01/stef01/16747
+#EXTINF:-1,TR: BEIN BOX OFFICE 3 FHD
+http://62.182.81.111:8000/stef01/stef01/16797
+#EXTINF:-1,TR: BEIN BOX OFFICE 2 FHD
+http://62.182.81.111:8000/stef01/stef01/16798
+#EXTINF:-1,TR: BEIN BOX OFFICE 1 FHD
+http://62.182.81.111:8000/stef01/stef01/16799
+#EXTINF:-1,TR: FOX LIFE FHD
+http://62.182.81.111:8000/stef01/stef01/16906
+#EXTINF:-1,TR: FOX FHD
+http://62.182.81.111:8000/stef01/stef01/16907
+#EXTINF:-1,TR: HALK TV
+http://62.182.81.111:8000/stef01/stef01/16978
+#EXTINF:-1,TR: TV 4 FHD
+http://62.182.81.111:8000/stef01/stef01/18721
+#EXTINF:-1,NL: MTV MUSIC 24 HD
+http://62.182.81.111:8000/stef01/stef01/25505
+#EXTINF:-1,USA: TSN 1 FHD
+http://62.182.81.111:8000/stef01/stef01/26398
+#EXTINF:-1,USA: TSN 2 FHD
+http://62.182.81.111:8000/stef01/stef01/26399
+#EXTINF:-1,USA: TSN 3 FHD
+http://62.182.81.111:8000/stef01/stef01/26400
+#EXTINF:-1,USA: TSN 4 FHD
+http://62.182.81.111:8000/stef01/stef01/26401
+#EXTINF:-1,TR: HABER GLOBAL FHD
+http://62.182.81.111:8000/stef01/stef01/25657
+#EXTINF:-1,TR: CNN TURK FHD
+http://62.182.81.111:8000/stef01/stef01/25658
+#EXTINF:-1,TR: DISCOVERY CHANNEL HD
+http://62.182.81.111:8000/stef01/stef01/25660
+#EXTINF:-1,TR: DISCOVERY SCIENCE HD
+http://62.182.81.111:8000/stef01/stef01/25661
+#EXTINF:-1,NL: NPO 1 FHD++
+http://62.182.81.111:8000/stef01/stef01/29718
+#EXTINF:-1,NL: NPO 2 FHD++
+http://62.182.81.111:8000/stef01/stef01/29719
+#EXTINF:-1,NL: NPO 3 FHD++
+http://62.182.81.111:8000/stef01/stef01/29720
+#EXTINF:-1,NL: RTL 4 FHD++
+http://62.182.81.111:8000/stef01/stef01/29721
+#EXTINF:-1,NL: RTL 5 FHD++
+http://62.182.81.111:8000/stef01/stef01/29722
+#EXTINF:-1,NL: NET 5 FHD++
+http://62.182.81.111:8000/stef01/stef01/29723
+#EXTINF:-1,NL: SBS 6 FHD++
+http://62.182.81.111:8000/stef01/stef01/29724
+#EXTINF:-1,NL: RTL 7 FHD++
+http://62.182.81.111:8000/stef01/stef01/29725
+#EXTINF:-1,NL: RTL 8 FHD++
+http://62.182.81.111:8000/stef01/stef01/29726
+#EXTINF:-1,NL: SBS 9 FHD++
+http://62.182.81.111:8000/stef01/stef01/29727
+#EXTINF:-1,NL: VERONICA FHD++
+http://62.182.81.111:8000/stef01/stef01/29728
+#EXTINF:-1,NL: RTL CRIME FHD++
+http://62.182.81.111:8000/stef01/stef01/29729
+#EXTINF:-1,NL: RTL LOUNGE FHD++
+http://62.182.81.111:8000/stef01/stef01/29730
+#EXTINF:-1,NL: RTL Z FHD++
+http://62.182.81.111:8000/stef01/stef01/29731
+#EXTINF:-1,NL: FOX FHD++
+http://62.182.81.111:8000/stef01/stef01/29732
+#EXTINF:-1,NL: TLC FHD++
+http://62.182.81.111:8000/stef01/stef01/29733
+#EXTINF:-1,NL: E! ENTERTAINMENT FHD++
+http://62.182.81.111:8000/stef01/stef01/29734
+#EXTINF:-1,NL: SPIKE FHD++
+http://62.182.81.111:8000/stef01/stef01/29735
+#EXTINF:-1,NL: 24 KITCHEN FHD++
+http://62.182.81.111:8000/stef01/stef01/29738
+#EXTINF:-1,NL: ANIMAL PLANET FHD++
+http://62.182.81.111:8000/stef01/stef01/29739
+#EXTINF:-1,NL: DISCOVERY FHD++
+http://62.182.81.111:8000/stef01/stef01/29740
+#EXTINF:-1,NL: DISCOVERY SCIENCE FHD++
+http://62.182.81.111:8000/stef01/stef01/29741
+#EXTINF:-1,NL: NAT GEO FHD++
+http://62.182.81.111:8000/stef01/stef01/29742
+#EXTINF:-1,NL: NAT GEO WILD FHD++
+http://62.182.81.111:8000/stef01/stef01/29743
+#EXTINF:-1,NL: HISTORY FHD++
+http://62.182.81.111:8000/stef01/stef01/29744
+#EXTINF:-1,NL: ID FHD++
+http://62.182.81.111:8000/stef01/stef01/29745
+#EXTINF:-1,NL: SHORTS TV FHD++
+http://62.182.81.111:8000/stef01/stef01/29746
+#EXTINF:-1,NL: ONS FHD++
+http://62.182.81.111:8000/stef01/stef01/29747
+#EXTINF:-1,NL: FILM 1 ACTION FHD++
+http://62.182.81.111:8000/stef01/stef01/29749
+#EXTINF:-1,NL: FILM 1 PREMIERE FHD++
+http://62.182.81.111:8000/stef01/stef01/29750
+#EXTINF:-1,NL: FILM 1 FAMILY FHD++
+http://62.182.81.111:8000/stef01/stef01/29751
+#EXTINF:-1,NL: FILM 1 DRAMA FHD++
+http://62.182.81.111:8000/stef01/stef01/29752
+#EXTINF:-1,NL: ESPN 1 FHD++
+http://62.182.81.111:8000/stef01/stef01/29753
+#EXTINF:-1,NL: ESPN 2 FHD++
+http://62.182.81.111:8000/stef01/stef01/29754
+#EXTINF:-1,NL: ESPN 3 FHD++
+http://62.182.81.111:8000/stef01/stef01/29755
+#EXTINF:-1,NL: ESPN 4 FHD++
+http://62.182.81.111:8000/stef01/stef01/29756
+#EXTINF:-1,NL: ZIGGO SPORT SELECT FHD++
+http://62.182.81.111:8000/stef01/stef01/29759
+#EXTINF:-1,NL: ZIGGO SPORT VOETBAL FHD++
+http://62.182.81.111:8000/stef01/stef01/29760
+#EXTINF:-1,NL: ZIGGO SPORT GOLF FHD++
+http://62.182.81.111:8000/stef01/stef01/29761
+#EXTINF:-1,NL: ZIGGO SPORT RACING FHD++
+http://62.182.81.111:8000/stef01/stef01/29762
+#EXTINF:-1,NL: ZIGGO SPORT DOCU FHD++
+http://62.182.81.111:8000/stef01/stef01/29763
+#EXTINF:-1,NL: EUROSPORT 1 FHD++
+http://62.182.81.111:8000/stef01/stef01/29764
+#EXTINF:-1,NL: EUROSPORT 2 FHD++
+http://62.182.81.111:8000/stef01/stef01/29765
+#EXTINF:-1,NL: EXTREME SPORTS FHD++
+http://62.182.81.111:8000/stef01/stef01/29766
+#EXTINF:-1,NL: BABY TV FHD++
+http://62.182.81.111:8000/stef01/stef01/29767
+#EXTINF:-1,NL: BOOMERANG FHD++
+http://62.182.81.111:8000/stef01/stef01/29768
+#EXTINF:-1,NL: CARTOON NETWORK FHD++
+http://62.182.81.111:8000/stef01/stef01/29769
+#EXTINF:-1,NL: DISNEY CHANNEL FHD++
+http://62.182.81.111:8000/stef01/stef01/29770
+#EXTINF:-1,NL: NICK MUSIC FHD++
+http://62.182.81.111:8000/stef01/stef01/29771
+#EXTINF:-1,NL: NICK TOONS FHD++
+http://62.182.81.111:8000/stef01/stef01/29772
+#EXTINF:-1,NL: NICK JUNIOR FHD++
+http://62.182.81.111:8000/stef01/stef01/29773
+#EXTINF:-1,NL: NICKELODEON FHD++
+http://62.182.81.111:8000/stef01/stef01/29774
+#EXTINF:-1,NL: RTL TELEKIDS FHD++
+http://62.182.81.111:8000/stef01/stef01/29775
+#EXTINF:-1,NL: TV ORANJE FHD++
+http://62.182.81.111:8000/stef01/stef01/29776
+#EXTINF:-1,NL: MTV FHD++
+http://62.182.81.111:8000/stef01/stef01/29777
+#EXTINF:-1,NL: MTV LIVE FHD++
+http://62.182.81.111:8000/stef01/stef01/29778
+#EXTINF:-1,NL: XITE FHD++
+http://62.182.81.111:8000/stef01/stef01/29781
+#EXTINF:-1,NL: BBC FIRST FHD++
+http://62.182.81.111:8000/stef01/stef01/29782
+#EXTINF:-1,NL: Radio Veronica
+http://62.182.81.111:8000/stef01/stef01/29797
+#EXTINF:-1,NASA Live: Official Stream of NASA TV
+http://62.182.81.111:8000/stef01/stef01/31686
+#EXTINF:-1,USA: The Weather Channel
+http://62.182.81.111:8000/stef01/stef01/32183
+#EXTINF:-1,USA: Boomerang HD
+http://62.182.81.111:8000/stef01/stef01/34239
+#EXTINF:-1,NL: DanceTelevision FHD++
+http://62.182.81.111:8000/stef01/stef01/34480
+#EXTINF:-1,NL: E! HD FHD++
+http://62.182.81.111:8000/stef01/stef01/34482
+#EXTINF:-1,NL: Horse Country TV FHD++
+http://62.182.81.111:8000/stef01/stef01/34483
+#EXTINF:-1,NL: FOX HD FHD++
+http://62.182.81.111:8000/stef01/stef01/34484
+#EXTINF:-1,MC: HIT LIST
+http://62.182.81.111:8000/stef01/stef01/35773
+#EXTINF:-1,MC: Hip-Hop/R&B
+http://62.182.81.111:8000/stef01/stef01/35774
+#EXTINF:-1,MC: Teen Beats
+http://62.182.81.111:8000/stef01/stef01/35775
+#EXTINF:-1,MC: Today's Country
+http://62.182.81.111:8000/stef01/stef01/35776
+#EXTINF:-1,MC: Alternative
+http://62.182.81.111:8000/stef01/stef01/35777
+#EXTINF:-1,MC: Pop Latino
+http://62.182.81.111:8000/stef01/stef01/35778
+#EXTINF:-1,MC: R&B/Soul
+http://62.182.81.111:8000/stef01/stef01/35779
+#EXTINF:-1,MC: Rap
+http://62.182.81.111:8000/stef01/stef01/35780
+#EXTINF:-1,MC: Dance/EDM
+http://62.182.81.111:8000/stef01/stef01/35781
+#EXTINF:-1,MC: Musica Urbana
+http://62.182.81.111:8000/stef01/stef01/35782
+#EXTINF:-1,MC: Kidz Only!
+http://62.182.81.111:8000/stef01/stef01/35784
+#EXTINF:-1,MC: Mexicana
+http://62.182.81.111:8000/stef01/stef01/35785
+#EXTINF:-1,MC: Pop & Country
+http://62.182.81.111:8000/stef01/stef01/35786
+#EXTINF:-1,MC: Pop Hits
+http://62.182.81.111:8000/stef01/stef01/35787
+#EXTINF:-1,MC: Tropicales
+http://62.182.81.111:8000/stef01/stef01/35788
+#EXTINF:-1,MC: Rock
+http://62.182.81.111:8000/stef01/stef01/35789
+#EXTINF:-1,MC: Metal
+http://62.182.81.111:8000/stef01/stef01/35790
+#EXTINF:-1,MC: 90's
+http://62.182.81.111:8000/stef01/stef01/35791
+#EXTINF:-1,MC: Rap 2K
+http://62.182.81.111:8000/stef01/stef01/35792
+#EXTINF:-1,MC: Throwback Jamz
+http://62.182.81.111:8000/stef01/stef01/35793
+#EXTINF:-1,MC: Brits + Hits
+http://62.182.81.111:8000/stef01/stef01/35794
+#EXTINF:-1,MC: Toddler Tunes
+http://62.182.81.111:8000/stef01/stef01/35795
+#EXTINF:-1,MC: Y2K
+http://62.182.81.111:8000/stef01/stef01/35796
+#EXTINF:-1,UK: BBC-News-HD
+http://62.182.81.111:8000/stef01/stef01/36129
+#EXTINF:-1,UK: Sky-News-HD
+http://62.182.81.111:8000/stef01/stef01/36194
+#EXTINF:-1,USA: COMEDY CENTRAL
+http://62.182.81.111:8000/stef01/stef01/37387
+#EXTINF:-1,USA: HISTORY  HD
+http://62.182.81.111:8000/stef01/stef01/37389
+#EXTINF:-1,USA: MTV  HD
+http://62.182.81.111:8000/stef01/stef01/37390
+#EXTINF:-1,USA: TLC HD
+http://62.182.81.111:8000/stef01/stef01/37391
+#EXTINF:-1,USA: Discovery channel
+http://62.182.81.111:8000/stef01/stef01/37394
+#EXTINF:-1,USA: Showtime HD
+http://62.182.81.111:8000/stef01/stef01/37396
+#EXTINF:-1,USA: DISNEY JR HD
+http://62.182.81.111:8000/stef01/stef01/37397
+#EXTINF:-1,USA: HBO COMEDY
+http://62.182.81.111:8000/stef01/stef01/37398
+#EXTINF:-1,USA: Fox News
+http://62.182.81.111:8000/stef01/stef01/37399
+#EXTINF:-1,USA: ESPN 1
+http://62.182.81.111:8000/stef01/stef01/37400
+#EXTINF:-1,USA: Fox Sport 1
+http://62.182.81.111:8000/stef01/stef01/37402
+#EXTINF:-1,USA: NBC GOLF HD
+http://62.182.81.111:8000/stef01/stef01/37404
+#EXTINF:-1,USA: Animal Planet
+http://62.182.81.111:8000/stef01/stef01/37408
+#EXTINF:-1,USA: Cartoon Network
+http://62.182.81.111:8000/stef01/stef01/37409
+#EXTINF:-1,USA: HBO HD
+http://62.182.81.111:8000/stef01/stef01/37416
+#EXTINF:-1,USA: ESPN
+http://62.182.81.111:8000/stef01/stef01/37418
+#EXTINF:-1,USA: Starz Edge FHD
+http://62.182.81.111:8000/stef01/stef01/37430
+#EXTINF:-1,USA: HGTV HD
+http://62.182.81.111:8000/stef01/stef01/37431
+#EXTINF:-1,UK: ITV 1 HD
+http://62.182.81.111:8000/stef01/stef01/37441
+#EXTINF:-1,UK: 5 Star SD
+http://62.182.81.111:8000/stef01/stef01/37444
+#EXTINF:-1,UK: ALIBI HD
+http://62.182.81.111:8000/stef01/stef01/37445
+#EXTINF:-1,UK: BBC ONE HD
+http://62.182.81.111:8000/stef01/stef01/37446
+#EXTINF:-1,UK: BBC TWO HD
+http://62.182.81.111:8000/stef01/stef01/37447
+#EXTINF:-1,UK: CARTOON NETWORK HD
+http://62.182.81.111:8000/stef01/stef01/37449
+#EXTINF:-1,UK: CHANNEL 4 HD
+http://62.182.81.111:8000/stef01/stef01/37450
+#EXTINF:-1,UK: DISCOVERY CHANNEL HD
+http://62.182.81.111:8000/stef01/stef01/37454
+#EXTINF:-1,UK: DISCOVERY TURBO
+http://62.182.81.111:8000/stef01/stef01/37455
+#EXTINF:-1,UK: DISNEY CHANNEL HD
+http://62.182.81.111:8000/stef01/stef01/37456
+#EXTINF:-1,UK: EDEN
+http://62.182.81.111:8000/stef01/stef01/37458
+#EXTINF:-1,UK: Eurosport 1 HD
+http://62.182.81.111:8000/stef01/stef01/37459
+#EXTINF:-1,UK: HISTORY
+http://62.182.81.111:8000/stef01/stef01/37461
+#EXTINF:-1,UK: ITV 2 HD
+http://62.182.81.111:8000/stef01/stef01/37462
+#EXTINF:-1,UK: NAT GEO
+http://62.182.81.111:8000/stef01/stef01/37466
+#EXTINF:-1,UK: NAT GEO WILD FHD
+http://62.182.81.111:8000/stef01/stef01/37467
+#EXTINF:-1,UK: NICK
+http://62.182.81.111:8000/stef01/stef01/37468
+#EXTINF:-1,UK: NICK JR
+http://62.182.81.111:8000/stef01/stef01/37469
+#EXTINF:-1,UK: PREMIER SPORTS 1 HD
+http://62.182.81.111:8000/stef01/stef01/37471
+#EXTINF:-1,UK: SKY CINEMA PREMIERE HD
+http://62.182.81.111:8000/stef01/stef01/37483
+#EXTINF:-1,UK: SKY CINEMA SCI-FI & HORROR HD
+http://62.182.81.111:8000/stef01/stef01/37484
+#EXTINF:-1,UK: SKY CINEMA THRILLER HD
+http://62.182.81.111:8000/stef01/stef01/37486
+#EXTINF:-1,UK: SKY NEWS
+http://62.182.81.111:8000/stef01/stef01/37487
+#EXTINF:-1,UK: SKY TWO
+http://62.182.81.111:8000/stef01/stef01/37489
+#EXTINF:-1,UK: SYFY HD
+http://62.182.81.111:8000/stef01/stef01/37495
+#EXTINF:-1,UK: TLC HD
+http://62.182.81.111:8000/stef01/stef01/37496
+#EXTINF:-1,UK: TRAVEL CHANNEL
+http://62.182.81.111:8000/stef01/stef01/37497
+#EXTINF:-1,UK: YESTERDAY
+http://62.182.81.111:8000/stef01/stef01/37499
+#EXTINF:-1,USA: AHC
+http://62.182.81.111:8000/stef01/stef01/37591
+#EXTINF:-1,USA: cinemax-west
+http://62.182.81.111:8000/stef01/stef01/37593
+#EXTINF:-1,USA: ELEVEN-NETWORK
+http://62.182.81.111:8000/stef01/stef01/37595
+#EXTINF:-1,USA: epix drive
+http://62.182.81.111:8000/stef01/stef01/37596
+#EXTINF:-1,USA: ESPN-DEPORTES
+http://62.182.81.111:8000/stef01/stef01/37597
+#EXTINF:-1,USA: GINX-TV
+http://62.182.81.111:8000/stef01/stef01/37600
+#EXTINF:-1,USA: ID
+http://62.182.81.111:8000/stef01/stef01/37601
+#EXTINF:-1,USA: long
+http://62.182.81.111:8000/stef01/stef01/37602
+#EXTINF:-1,USA: NBC WASHINGTON DC
+http://62.182.81.111:8000/stef01/stef01/37604
+#EXTINF:-1,USA: MTV Classic
+http://62.182.81.111:8000/stef01/stef01/37615
+#EXTINF:-1,USA: Willow Cricket 02 HD US
+http://62.182.81.111:8000/stef01/stef01/37618
+#EXTINF:-1,ZA: SuperSport  LaLiga
+http://62.182.81.111:8000/stef01/stef01/37620
+#EXTINF:-1,ZA: SuperSport PSL
+http://62.182.81.111:8000/stef01/stef01/37621
+#EXTINF:-1,ZA: SuperSport Premier League
+http://62.182.81.111:8000/stef01/stef01/37622
+#EXTINF:-1,ZA: SuperSport Grandstand
+http://62.182.81.111:8000/stef01/stef01/37623
+#EXTINF:-1,ZA: SuperSport Variety 2
+http://62.182.81.111:8000/stef01/stef01/37624
+#EXTINF:-1,ZA: SuperSport Action
+http://62.182.81.111:8000/stef01/stef01/37625
+#EXTINF:-1,ZA: SuperSport Variety 1
+http://62.182.81.111:8000/stef01/stef01/37626
+#EXTINF:-1,ZA: SuperSport Football
+http://62.182.81.111:8000/stef01/stef01/37627
+#EXTINF:-1,ZA: SuperSport Variety 4
+http://62.182.81.111:8000/stef01/stef01/37628
+#EXTINF:-1,ZA: SuperSport Variety 3
+http://62.182.81.111:8000/stef01/stef01/37629
+#EXTINF:-1,ZA: SuperSport Rugby
+http://62.182.81.111:8000/stef01/stef01/37630
+#EXTINF:-1,ZA: SuperSport Cricket
+http://62.182.81.111:8000/stef01/stef01/37631
+#EXTINF:-1,ZA: SuperSport Blitz
+http://62.182.81.111:8000/stef01/stef01/37632
+#EXTINF:-1,ZA: SuperSport MaXimo 1
+http://62.182.81.111:8000/stef01/stef01/37633
+#EXTINF:-1,ZA: SuperSport Golf
+http://62.182.81.111:8000/stef01/stef01/37635
+#EXTINF:-1,USA: AMC
+http://62.182.81.111:8000/stef01/stef01/37636
+#EXTINF:-1,UK: ITV 3 HD
+http://62.182.81.111:8000/stef01/stef01/37642
+#EXTINF:-1,UK: ITV 4 HD
+http://62.182.81.111:8000/stef01/stef01/37643
+#EXTINF:-1,UK: Channel 5 HD
+http://62.182.81.111:8000/stef01/stef01/37661
+#EXTINF:-1,NL: RTV Noord Groningen
+http://62.182.81.111:8000/stef01/stef01/37673
+#EXTINF:-1,USA: AXS TV HD
+http://62.182.81.111:8000/stef01/stef01/37674
+#EXTINF:-1,USA: Bravo East HD
+http://62.182.81.111:8000/stef01/stef01/37677
+#EXTINF:-1,USA: Bravo West HD
+http://62.182.81.111:8000/stef01/stef01/37678
+#EXTINF:-1,UK: Sky-Atlantic-FHD
+http://62.182.81.111:8000/stef01/stef01/36192
+#EXTINF:-1,UK: Sky1-FHD
+http://62.182.81.111:8000/stef01/stef01/36203
+#EXTINF:-1,UK: TG4-SD
+http://62.182.81.111:8000/stef01/stef01/36205
+#EXTINF:-1,UK: Tiny-Pop
+http://62.182.81.111:8000/stef01/stef01/36206
+#EXTINF:-1,UK: W HD
+http://62.182.81.111:8000/stef01/stef01/36210
+#EXTINF:-1,UK: Yesterday
+http://62.182.81.111:8000/stef01/stef01/36211
+#EXTINF:-1,UK: S4C
+http://62.182.81.111:8000/stef01/stef01/36184
+#EXTINF:-1,UK: RTE2-HD
+http://62.182.81.111:8000/stef01/stef01/36183
+#EXTINF:-1,UK: RTE ONE HD
+http://62.182.81.111:8000/stef01/stef01/36182
+#EXTINF:-1,UK: Really
+http://62.182.81.111:8000/stef01/stef01/36180
+#EXTINF:-1,UK: Racing-UK-FHD
+http://62.182.81.111:8000/stef01/stef01/36178
+#EXTINF:-1,UK: Pop-Max
+http://62.182.81.111:8000/stef01/stef01/36177
+#EXTINF:-1,UK: Tiny Pop
+http://62.182.81.111:8000/stef01/stef01/36176
+#EXTINF:-1,UK: Paramount-FHD
+http://62.182.81.111:8000/stef01/stef01/36174
+#EXTINF:-1,UK: Nickelodeon
+http://62.182.81.111:8000/stef01/stef01/36173
+#EXTINF:-1,UK: Nick-Junior-HD
+http://62.182.81.111:8000/stef01/stef01/36171
+#EXTINF:-1,UK: Nat-Geo-HD
+http://62.182.81.111:8000/stef01/stef01/36169
+#EXTINF:-1,UK: MTV-Rocks
+http://62.182.81.111:8000/stef01/stef01/36167
+#EXTINF:-1,UK: MTV-Hits
+http://62.182.81.111:8000/stef01/stef01/36164
+#EXTINF:-1,UK: MTV-Classic
+http://62.182.81.111:8000/stef01/stef01/36161
+#EXTINF:-1,UK: MTV FHD
+http://62.182.81.111:8000/stef01/stef01/36159
+#EXTINF:-1,UK: MTV
+http://62.182.81.111:8000/stef01/stef01/36158
+#EXTINF:-1,UK: Love Nature HD
+http://62.182.81.111:8000/stef01/stef01/36157
+#EXTINF:-1,UK: Home & Health
+http://62.182.81.111:8000/stef01/stef01/36154
+#EXTINF:-1,UK: H2-FHD
+http://62.182.81.111:8000/stef01/stef01/36153
+#EXTINF:-1,UK: Drama
+http://62.182.81.111:8000/stef01/stef01/36151
+#EXTINF:-1,UK: LFC TV
+http://62.182.81.111:8000/stef01/stef01/36156
+#EXTINF:-1,UK: DMAX
+http://62.182.81.111:8000/stef01/stef01/36150
+#EXTINF:-1,UK: Disney-XD-HD
+http://62.182.81.111:8000/stef01/stef01/36149
+#EXTINF:-1,UK: Disney-Junior
+http://62.182.81.111:8000/stef01/stef01/36148
+#EXTINF:-1,UK: Discovery-Science
+http://62.182.81.111:8000/stef01/stef01/36146
+#EXTINF:-1,UK: Discovery-History
+http://62.182.81.111:8000/stef01/stef01/36145
+#EXTINF:-1,UK: CNN International
+http://62.182.81.111:8000/stef01/stef01/36144
+#EXTINF:-1,UK: CITV
+http://62.182.81.111:8000/stef01/stef01/36143
+#EXTINF:-1,UK: Challenge
+http://62.182.81.111:8000/stef01/stef01/36141
+#EXTINF:-1,UK: CBS-Reality
+http://62.182.81.111:8000/stef01/stef01/36140
+#EXTINF:-1,UK: CBS-Drama
+http://62.182.81.111:8000/stef01/stef01/36138
+#EXTINF:-1,UK: Cartoonito
+http://62.182.81.111:8000/stef01/stef01/36136
+#EXTINF:-1,UK: Chelsea TV HD
+http://62.182.81.111:8000/stef01/stef01/36142
+#EXTINF:-1,UK: CBS-Justice
+http://62.182.81.111:8000/stef01/stef01/36139
+#EXTINF:-1,UK: BoxNation-HD
+http://62.182.81.111:8000/stef01/stef01/36135
+#EXTINF:-1,UK: Boomerang
+http://62.182.81.111:8000/stef01/stef01/36134
+#EXTINF:-1,UK: Blaze
+http://62.182.81.111:8000/stef01/stef01/36133
+#EXTINF:-1,UK: Betfred-TV
+http://62.182.81.111:8000/stef01/stef01/36132
+#EXTINF:-1,UK: BBC-Scotland-HD
+http://62.182.81.111:8000/stef01/stef01/36131
+#EXTINF:-1,UK: BBC-Parliament
+http://62.182.81.111:8000/stef01/stef01/36130
+#EXTINF:-1,UK: 5Select
+http://62.182.81.111:8000/stef01/stef01/36122
+#EXTINF:-1,UK: 5USA
+http://62.182.81.111:8000/stef01/stef01/36123
+#EXTINF:-1,UK: AMC
+http://62.182.81.111:8000/stef01/stef01/36124
+#EXTINF:-1,UK: Animal-Planet-HD
+http://62.182.81.111:8000/stef01/stef01/36125
+#EXTINF:-1,UK: babytv
+http://62.182.81.111:8000/stef01/stef01/36127
+#EXTINF:-1,USA: CBS
+http://62.182.81.111:8000/stef01/stef01/37698
+#EXTINF:-1,USA: ABC
+http://62.182.81.111:8000/stef01/stef01/37699
+#EXTINF:-1,USA: MAV TV
+http://62.182.81.111:8000/stef01/stef01/37710
+#EXTINF:-1,UK: Eurosport 2 HD
+http://62.182.81.111:8000/stef01/stef01/37711
+#EXTINF:-1,UK: 92 News
+http://62.182.81.111:8000/stef01/stef01/38137
+#EXTINF:-1,UK: AajTak News
+http://62.182.81.111:8000/stef01/stef01/38138
+#EXTINF:-1,UK: Aastha
+http://62.182.81.111:8000/stef01/stef01/38139
+#EXTINF:-1,UK: Abp News
+http://62.182.81.111:8000/stef01/stef01/38140
+#EXTINF:-1,UK: Akaal Tv
+http://62.182.81.111:8000/stef01/stef01/38142
+#EXTINF:-1,UK: AL JAZEERA HD
+http://62.182.81.111:8000/stef01/stef01/38143
+#EXTINF:-1,UK: ALIBI HD
+http://62.182.81.111:8000/stef01/stef01/38144
+#EXTINF:-1,UK: Ary Family
+http://62.182.81.111:8000/stef01/stef01/38145
+#EXTINF:-1,UK: Ary World
+http://62.182.81.111:8000/stef01/stef01/38147
+#EXTINF:-1,UK: B4u Music
+http://62.182.81.111:8000/stef01/stef01/38149
+#EXTINF:-1,UK: BBC1 HD
+http://62.182.81.111:8000/stef01/stef01/38150
+#EXTINF:-1,UK: BBC2 HD
+http://62.182.81.111:8000/stef01/stef01/38151
+#EXTINF:-1,UK: BLOOMBERG
+http://62.182.81.111:8000/stef01/stef01/38154
+#EXTINF:-1,UK: Box Office 1
+http://62.182.81.111:8000/stef01/stef01/38157
+#EXTINF:-1,UK: BOX OFFICE 10
+http://62.182.81.111:8000/stef01/stef01/38158
+#EXTINF:-1,UK: Box Office 2
+http://62.182.81.111:8000/stef01/stef01/38159
+#EXTINF:-1,UK: Box Office 3
+http://62.182.81.111:8000/stef01/stef01/38160
+#EXTINF:-1,UK: Box Office 4
+http://62.182.81.111:8000/stef01/stef01/38161
+#EXTINF:-1,UK: BOX OFFICE 5
+http://62.182.81.111:8000/stef01/stef01/38162
+#EXTINF:-1,UK: Box Office 6
+http://62.182.81.111:8000/stef01/stef01/38163
+#EXTINF:-1,UK: Brit Asia
+http://62.182.81.111:8000/stef01/stef01/38167
+#EXTINF:-1,UK: BT SPORT / ESPN HD
+http://62.182.81.111:8000/stef01/stef01/38168
+#EXTINF:-1,UK: BT SPORT EXTRA 3 HD (Live Match Only)
+http://62.182.81.111:8000/stef01/stef01/38171
+#EXTINF:-1,UK: CBS ACTION HD
+http://62.182.81.111:8000/stef01/stef01/38173
+#EXTINF:-1,UK: Channel 44
+http://62.182.81.111:8000/stef01/stef01/38175
+#EXTINF:-1,UK: CHANNEL 5 HD
+http://62.182.81.111:8000/stef01/stef01/38176
+#EXTINF:-1,UK: Color TV
+http://62.182.81.111:8000/stef01/stef01/38177
+#EXTINF:-1,UK: Colors Rishtey Europe
+http://62.182.81.111:8000/stef01/stef01/38179
+#EXTINF:-1,UK: COMEDY CENTRAL EXTRA HD
+http://62.182.81.111:8000/stef01/stef01/38180
+#EXTINF:-1,UK: COMEDY CENTRAL HD
+http://62.182.81.111:8000/stef01/stef01/38181
+#EXTINF:-1,UK: CRIME AND INVESTIGATION HD
+http://62.182.81.111:8000/stef01/stef01/38182
+#EXTINF:-1,UK: DAVE HD
+http://62.182.81.111:8000/stef01/stef01/38183
+#EXTINF:-1,UK: DISCOVERY SHED HD
+http://62.182.81.111:8000/stef01/stef01/38184
+#EXTINF:-1,UK: Duniya News
+http://62.182.81.111:8000/stef01/stef01/38185
+#EXTINF:-1,UK: E4 HD
+http://62.182.81.111:8000/stef01/stef01/38186
+#EXTINF:-1,UK: EIR SPORT 1 HD
+http://62.182.81.111:8000/stef01/stef01/38187
+#EXTINF:-1,UK: EIR SPORT 2 HD
+http://62.182.81.111:8000/stef01/stef01/38188
+#EXTINF:-1,UK: ELEVEN SPORTS HD
+http://62.182.81.111:8000/stef01/stef01/38189
+#EXTINF:-1,UK: EURONEWS HD
+http://62.182.81.111:8000/stef01/stef01/38190
+#EXTINF:-1,UK: EUROSPORT 1 HD
+http://62.182.81.111:8000/stef01/stef01/38191
+#EXTINF:-1,UK: FRANCE 24 HD
+http://62.182.81.111:8000/stef01/stef01/38194
+#EXTINF:-1,UK: FREE SPORTS
+http://62.182.81.111:8000/stef01/stef01/38195
+#EXTINF:-1,UK: Geo Tv
+http://62.182.81.111:8000/stef01/stef01/38198
+#EXTINF:-1,UK: GOLD
+http://62.182.81.111:8000/stef01/stef01/38199
+#EXTINF:-1,UK: Hidayat Tv
+http://62.182.81.111:8000/stef01/stef01/38200
+#EXTINF:-1,UK: History Channel 1
+http://62.182.81.111:8000/stef01/stef01/38201
+#EXTINF:-1,UK: HISTORY CHANNEL 2
+http://62.182.81.111:8000/stef01/stef01/38202
+#EXTINF:-1,UK: HORROR CHANNEL
+http://62.182.81.111:8000/stef01/stef01/38204
+#EXTINF:-1,UK: HORSE & COUNTRY
+http://62.182.81.111:8000/stef01/stef01/38205
+#EXTINF:-1,UK: Hum Masala
+http://62.182.81.111:8000/stef01/stef01/38206
+#EXTINF:-1,UK: Hum Tv
+http://62.182.81.111:8000/stef01/stef01/38207
+#EXTINF:-1,UK: INVESTIGATION DISCOVERY HD
+http://62.182.81.111:8000/stef01/stef01/38208
+#EXTINF:-1,UK: ITV 4 HD
+http://62.182.81.111:8000/stef01/stef01/38210
+#EXTINF:-1,UK: ITV BE HD
+http://62.182.81.111:8000/stef01/stef01/38211
+#EXTINF:-1,UK: KTV
+http://62.182.81.111:8000/stef01/stef01/38213
+#EXTINF:-1,UK: MAGIC TV
+http://62.182.81.111:8000/stef01/stef01/38215
+#EXTINF:-1,UK: MORE 4 HD
+http://62.182.81.111:8000/stef01/stef01/38216
+#EXTINF:-1,UK: MTV DANCE HD
+http://62.182.81.111:8000/stef01/stef01/38217
+#EXTINF:-1,UK: NAT GEO WILD HD
+http://62.182.81.111:8000/stef01/stef01/38218
+#EXTINF:-1,UK: News One PK
+http://62.182.81.111:8000/stef01/stef01/38219
+#EXTINF:-1,UK: NICK JR TOO
+http://62.182.81.111:8000/stef01/stef01/38220
+#EXTINF:-1,UK: PREMIER SPORTS 2 HD
+http://62.182.81.111:8000/stef01/stef01/38225
+#EXTINF:-1,UK: Ptc Punjabi
+http://62.182.81.111:8000/stef01/stef01/38227
+#EXTINF:-1,UK: Ptv News
+http://62.182.81.111:8000/stef01/stef01/38229
+#EXTINF:-1,UK: QUEST
+http://62.182.81.111:8000/stef01/stef01/38230
+#EXTINF:-1,UK: RTE NEWS HD
+http://62.182.81.111:8000/stef01/stef01/38232
+#EXTINF:-1,UK: RTE TWO HD
+http://62.182.81.111:8000/stef01/stef01/38233
+#EXTINF:-1,UK: SKY ARTS
+http://62.182.81.111:8000/stef01/stef01/38245
+#EXTINF:-1,UK: SKY ATLANTIC
+http://62.182.81.111:8000/stef01/stef01/38246
+#EXTINF:-1,UK: SKY CINEMA ACTION
+http://62.182.81.111:8000/stef01/stef01/38247
+#EXTINF:-1,UK: SKY CINEMA COMEDY
+http://62.182.81.111:8000/stef01/stef01/38248
+#EXTINF:-1,UK: SKY CINEMA DRAMA
+http://62.182.81.111:8000/stef01/stef01/38250
+#EXTINF:-1,UK: SKY CINEMA FAMILY
+http://62.182.81.111:8000/stef01/stef01/38251
+#EXTINF:-1,UK: SKY CINEMA GREATS
+http://62.182.81.111:8000/stef01/stef01/38252
+#EXTINF:-1,UK: SKY CINEMA HITS
+http://62.182.81.111:8000/stef01/stef01/38253
+#EXTINF:-1,UK: SKY CINEMA PREMIER
+http://62.182.81.111:8000/stef01/stef01/38255
+#EXTINF:-1,UK: SKY CINEMA THRILLER
+http://62.182.81.111:8000/stef01/stef01/38257
+#EXTINF:-1,UK: SKY MOVIES COMEDY HD
+http://62.182.81.111:8000/stef01/stef01/38258
+#EXTINF:-1,UK: SKY MOVIES FAMILY
+http://62.182.81.111:8000/stef01/stef01/38260
+#EXTINF:-1,UK: SKY MOVIES SCI-FI & HORROR HD
+http://62.182.81.111:8000/stef01/stef01/38261
+#EXTINF:-1,UK: SONY MAX
+http://62.182.81.111:8000/stef01/stef01/38265
+#EXTINF:-1,UK: Sony Max 2
+http://62.182.81.111:8000/stef01/stef01/38266
+#EXTINF:-1,UK: SONY MOVIES
+http://62.182.81.111:8000/stef01/stef01/38267
+#EXTINF:-1,UK: SYFY
+http://62.182.81.111:8000/stef01/stef01/38269
+#EXTINF:-1,UK: Talking Pictures
+http://62.182.81.111:8000/stef01/stef01/38271
+#EXTINF:-1,UK: UFC FIGHT night Pass
+http://62.182.81.111:8000/stef01/stef01/38272
+#EXTINF:-1,UK: UFC FIGHT Pass
+http://62.182.81.111:8000/stef01/stef01/38273
+#EXTINF:-1,UK: VH1
+http://62.182.81.111:8000/stef01/stef01/38274
+#EXTINF:-1,UK: WATCH
+http://62.182.81.111:8000/stef01/stef01/38275
+#EXTINF:-1,UK: Zee cinema
+http://62.182.81.111:8000/stef01/stef01/38276
+#EXTINF:-1,UK: Zee TV
+http://62.182.81.111:8000/stef01/stef01/38277
+#EXTINF:-1,UK: Zing Music
+http://62.182.81.111:8000/stef01/stef01/38278
+#EXTINF:-1,NL: REDBOX ACTIE 1
+http://62.182.81.111:8000/stef01/stef01/38331
+#EXTINF:-1,NL: REDBOX ACTIE 2
+http://62.182.81.111:8000/stef01/stef01/38333
+#EXTINF:-1,NL: REDBOX ACTIE 3
+http://62.182.81.111:8000/stef01/stef01/38332
+#EXTINF:-1,NL: REDBOX DRAMA 1
+http://62.182.81.111:8000/stef01/stef01/38334
+#EXTINF:-1,NL: REDBOX DRAMA 2
+http://62.182.81.111:8000/stef01/stef01/38335
+#EXTINF:-1,NL: REDBOX HORROR 1
+http://62.182.81.111:8000/stef01/stef01/38336
+#EXTINF:-1,NL: REDBOX HORROR 2
+http://62.182.81.111:8000/stef01/stef01/38337
+#EXTINF:-1,NL: REDBOX KOMEDIE 1
+http://62.182.81.111:8000/stef01/stef01/38338
+#EXTINF:-1,NL: REDBOX SCI FI 1
+http://62.182.81.111:8000/stef01/stef01/38339
+#EXTINF:-1,NL: REDBOX SCI FI 2
+http://62.182.81.111:8000/stef01/stef01/38340
+#EXTINF:-1,NL: REDBOX TEKEN FILM
+http://62.182.81.111:8000/stef01/stef01/38341
+#EXTINF:-1,NL: REDBOX THRILLER 1
+http://62.182.81.111:8000/stef01/stef01/38342
+#EXTINF:-1,NL: REDBOX THRILLER 2
+http://62.182.81.111:8000/stef01/stef01/38343
+#EXTINF:-1,NL: REDBOX THRILLER 3
+http://62.182.81.111:8000/stef01/stef01/38344
+#EXTINF:-1,NL: REDBOX CONCERT
+http://62.182.81.111:8000/stef01/stef01/38345
+#EXTINF:-1,UK: Eleven Sports 2
+http://62.182.81.111:8000/stef01/stef01/38452
+#EXTINF:-1,UK: Eleven Sports 3
+http://62.182.81.111:8000/stef01/stef01/38453
+#EXTINF:-1,USA: USA Network
+http://62.182.81.111:8000/stef01/stef01/38454
+#EXTINF:-1,USA: TBS
+http://62.182.81.111:8000/stef01/stef01/38455
+#EXTINF:-1,USA: NBCSN
+http://62.182.81.111:8000/stef01/stef01/38456
+#EXTINF:-1,USA: FOX LOS ANGELES
+http://62.182.81.111:8000/stef01/stef01/38457
+#EXTINF:-1,USA: ELEVEN Sport
+http://62.182.81.111:8000/stef01/stef01/38459
+#EXTINF:-1,USA: BBC-WORLD-NEWS
+http://62.182.81.111:8000/stef01/stef01/38460
+#EXTINF:-1,USA: Willow Cricket
+http://62.182.81.111:8000/stef01/stef01/38463
+#EXTINF:-1,USA: CBS 2 New York
+http://62.182.81.111:8000/stef01/stef01/38465
+#EXTINF:-1,NL: DISCOVERY ID FHD++
+http://62.182.81.111:8000/stef01/stef01/38731
+#EXTINF:-1,Spongebob en vrienden 24/7
+http://62.182.81.111:8000/stef01/stef01/39754
+#EXTINF:-1,UK: BBC Lifestyle
+http://62.182.81.111:8000/stef01/stef01/38854
+#EXTINF:-1,UK: ITV 1 -3-
+http://62.182.81.111:8000/stef01/stef01/38860
+#EXTINF:-1,UK: Sky News
+http://62.182.81.111:8000/stef01/stef01/38883
+#EXTINF:-1,USA: 30A TV
+http://62.182.81.111:8000/stef01/stef01/40214
+#EXTINF:-1,USA: 7 News Boston
+http://62.182.81.111:8000/stef01/stef01/40215
+#EXTINF:-1,USA: ABC 7 Sarasota (WWSB)
+http://62.182.81.111:8000/stef01/stef01/40224
+#EXTINF:-1,USA: Adult Swim
+http://62.182.81.111:8000/stef01/stef01/40236
+#EXTINF:-1,USA: Akaku 53 Hawaii
+http://62.182.81.111:8000/stef01/stef01/40238
+#EXTINF:-1,USA: Akaku 55 Hawaii
+http://62.182.81.111:8000/stef01/stef01/40240
+#EXTINF:-1,USA: AKC TV
+http://62.182.81.111:8000/stef01/stef01/40241
+#EXTINF:-1,USA: American Horrors
+http://62.182.81.111:8000/stef01/stef01/40244
+#EXTINF:-1,USA: AMGTV
+http://62.182.81.111:8000/stef01/stef01/40245
+#EXTINF:-1,USA: Atlanta Channel
+http://62.182.81.111:8000/stef01/stef01/40246
+#EXTINF:-1,USA: Beach TV 30A (USA)
+http://62.182.81.111:8000/stef01/stef01/40247
+#EXTINF:-1,USA: Beach TV Panama City (USA)
+http://62.182.81.111:8000/stef01/stef01/40248
+#EXTINF:-1,USA: Beach TV Pawleys Island (USA)
+http://62.182.81.111:8000/stef01/stef01/40249
+#EXTINF:-1,USA: Beach TV CSULB
+http://62.182.81.111:8000/stef01/stef01/40250
+#EXTINF:-1,USA: Biz TV
+http://62.182.81.111:8000/stef01/stef01/40251
+#EXTINF:-1,USA: Bloomberg (USA)
+http://62.182.81.111:8000/stef01/stef01/40252
+#EXTINF:-1,USA: Bluegrass 4U
+http://62.182.81.111:8000/stef01/stef01/40253
+#EXTINF:-1,USA: Bowie TV
+http://62.182.81.111:8000/stef01/stef01/40256
+#EXTINF:-1,USA: Buffalo TV
+http://62.182.81.111:8000/stef01/stef01/40257
+#EXTINF:-1,USA: C-SPAN 2
+http://62.182.81.111:8000/stef01/stef01/40259
+#EXTINF:-1,USA: C-SPAN 3
+http://62.182.81.111:8000/stef01/stef01/40260
+#EXTINF:-1,USA: C-SPAN
+http://62.182.81.111:8000/stef01/stef01/40261
+#EXTINF:-1,USA: Capital City Connection Montgomery
+http://62.182.81.111:8000/stef01/stef01/40262
+#EXTINF:-1,USA: Catholic TV (USA)
+http://62.182.81.111:8000/stef01/stef01/40263
+#EXTINF:-1,USA: CBN (USA)
+http://62.182.81.111:8000/stef01/stef01/40265
+#EXTINF:-1,USA: CBN Live
+http://62.182.81.111:8000/stef01/stef01/40266
+#EXTINF:-1,USA: CBN News (nieuws USA)
+http://62.182.81.111:8000/stef01/stef01/40267
+#EXTINF:-1,USA: CBS 4 Miami
+http://62.182.81.111:8000/stef01/stef01/40269
+#EXTINF:-1,USA: CBS 4 Miami-Florida (USA)
+http://62.182.81.111:8000/stef01/stef01/40270
+#EXTINF:-1,USA: CBS 57 Kentucky(WYMT)
+http://62.182.81.111:8000/stef01/stef01/40274
+#EXTINF:-1,USA: CBS 57 Kentucky(WYMT)
+http://62.182.81.111:8000/stef01/stef01/40275
+#EXTINF:-1,USA: CBSN Boston
+http://62.182.81.111:8000/stef01/stef01/40280
+#EXTINF:-1,USA: CBSN News
+http://62.182.81.111:8000/stef01/stef01/40282
+#EXTINF:-1,USA: CC-TV Charlotte County
+http://62.182.81.111:8000/stef01/stef01/40283
+#EXTINF:-1,USA: Cerritos TV3
+http://62.182.81.111:8000/stef01/stef01/40284
+#EXTINF:-1,USA: CGTV Champaign
+http://62.182.81.111:8000/stef01/stef01/40285
+#EXTINF:-1,USA: Cheddar Business
+http://62.182.81.111:8000/stef01/stef01/40287
+#EXTINF:-1,USA: Cheddar News
+http://62.182.81.111:8000/stef01/stef01/40288
+#EXTINF:-1,USA: Christian Youth Channel
+http://62.182.81.111:8000/stef01/stef01/40289
+#EXTINF:-1,USA: Classic Arts Showcase
+http://62.182.81.111:8000/stef01/stef01/40290
+#EXTINF:-1,USA: Connecticut Network (Court Feed)
+http://62.182.81.111:8000/stef01/stef01/40296
+#EXTINF:-1,USA: Connecticut Network (Instant)
+http://62.182.81.111:8000/stef01/stef01/40297
+#EXTINF:-1,USA: Connecticut Network (Live Stream 1)
+http://62.182.81.111:8000/stef01/stef01/40298
+#EXTINF:-1,USA: Connecticut Network (Live Stream 2)
+http://62.182.81.111:8000/stef01/stef01/40299
+#EXTINF:-1,USA: Connecticut Network
+http://62.182.81.111:8000/stef01/stef01/40300
+#EXTINF:-1,USA: CONtv
+http://62.182.81.111:8000/stef01/stef01/40301
+#EXTINF:-1,USA: Cornerstone TV (USA)
+http://62.182.81.111:8000/stef01/stef01/40302
+#EXTINF:-1,USA: Country Music 4U
+http://62.182.81.111:8000/stef01/stef01/40303
+#EXTINF:-1,USA: Cozi West Virginia (WZTS)
+http://62.182.81.111:8000/stef01/stef01/40307
+#EXTINF:-1,USA: Cozi West Virginia (WZTS)
+http://62.182.81.111:8000/stef01/stef01/40308
+#EXTINF:-1,USA: Cozi West Virginia (WZTS)
+http://62.182.81.111:8000/stef01/stef01/40309
+#EXTINF:-1,USA: Darcizzle Offshore
+http://62.182.81.111:8000/stef01/stef01/40316
+#EXTINF:-1,USA: DC Council Channel
+http://62.182.81.111:8000/stef01/stef01/40317
+#EXTINF:-1,USA: Denver 8 TV
+http://62.182.81.111:8000/stef01/stef01/40318
+#EXTINF:-1,USA: District of Columbia Network
+http://62.182.81.111:8000/stef01/stef01/40319
+#EXTINF:-1,USA: Docurama
+http://62.182.81.111:8000/stef01/stef01/40320
+#EXTINF:-1,USA: Dove Channel
+http://62.182.81.111:8000/stef01/stef01/40321
+#EXTINF:-1,USA: Dr. Gene Scott
+http://62.182.81.111:8000/stef01/stef01/40322
+#EXTINF:-1,USA: Dust
+http://62.182.81.111:8000/stef01/stef01/40323
+#EXTINF:-1,USA: Escambia TV
+http://62.182.81.111:8000/stef01/stef01/40325
+#EXTINF:-1,USA: ET Live
+http://62.182.81.111:8000/stef01/stef01/40326
+#EXTINF:-1,USA: FailArmy
+http://62.182.81.111:8000/stef01/stef01/40327
+#EXTINF:-1,USA: Fairfax Public Access
+http://62.182.81.111:8000/stef01/stef01/40328
+#EXTINF:-1,USA: Filmrise Classics
+http://62.182.81.111:8000/stef01/stef01/40332
+#EXTINF:-1,USA: Filmrise Crime
+http://62.182.81.111:8000/stef01/stef01/40333
+#EXTINF:-1,USA: Folk TV
+http://62.182.81.111:8000/stef01/stef01/40335
+#EXTINF:-1,USA: Fox News Radio
+http://62.182.81.111:8000/stef01/stef01/40361
+#EXTINF:-1,USA: Free Speech TV
+http://62.182.81.111:8000/stef01/stef01/40362
+#EXTINF:-1,USA: Glendale 11
+http://62.182.81.111:8000/stef01/stef01/40365
+#EXTINF:-1,USA: Globesville (New York Institute of Technology)
+http://62.182.81.111:8000/stef01/stef01/40366
+#EXTINF:-1,USA: Globesville (New York Institute of Technology)
+http://62.182.81.111:8000/stef01/stef01/40367
+#EXTINF:-1,USA: Globesville (New York Institute of Technology)
+http://62.182.81.111:8000/stef01/stef01/40368
+#EXTINF:-1,USA: Greensboro TV
+http://62.182.81.111:8000/stef01/stef01/40369
+#EXTINF:-1,USA: Horror TV USA
+http://62.182.81.111:8000/stef01/stef01/40385
+#EXTINF:-1,USA: HSN 2
+http://62.182.81.111:8000/stef01/stef01/40386
+#EXTINF:-1,USA: HSN
+http://62.182.81.111:8000/stef01/stef01/40387
+#EXTINF:-1,USA: Hunt Channel
+http://62.182.81.111:8000/stef01/stef01/40388
+#EXTINF:-1,USA: Investment Pitch
+http://62.182.81.111:8000/stef01/stef01/40389
+#EXTINF:-1,USA: Its Supernatural Network
+http://62.182.81.111:8000/stef01/stef01/40390
+#EXTINF:-1,USA: Its Supernatural Network
+http://62.182.81.111:8000/stef01/stef01/40391
+#EXTINF:-1,USA: Its Supernatural Network
+http://62.182.81.111:8000/stef01/stef01/40392
+#EXTINF:-1,USA: Jewish Life TV (USA)
+http://62.182.81.111:8000/stef01/stef01/40393
+#EXTINF:-1,USA: KBVR TV
+http://62.182.81.111:8000/stef01/stef01/40394
+#EXTINF:-1,USA: KBVR TV
+http://62.182.81.111:8000/stef01/stef01/40395
+#EXTINF:-1,USA: KBVR TV
+http://62.182.81.111:8000/stef01/stef01/40396
+#EXTINF:-1,USA: KET
+http://62.182.81.111:8000/stef01/stef01/40399
+#EXTINF:-1,USA: KET
+http://62.182.81.111:8000/stef01/stef01/40400
+#EXTINF:-1,USA: KET
+http://62.182.81.111:8000/stef01/stef01/40401
+#EXTINF:-1,USA: Key TV (USA)
+http://62.182.81.111:8000/stef01/stef01/40402
+#EXTINF:-1,USA: Lake Havasu City 4
+http://62.182.81.111:8000/stef01/stef01/40414
+#EXTINF:-1,USA: Law & Crime Network
+http://62.182.81.111:8000/stef01/stef01/40417
+#EXTINF:-1,USA: Leominster TV Educational
+http://62.182.81.111:8000/stef01/stef01/40418
+#EXTINF:-1,USA: Leominster TV Government
+http://62.182.81.111:8000/stef01/stef01/40419
+#EXTINF:-1,USA: Leominster TV Public
+http://62.182.81.111:8000/stef01/stef01/40420
+#EXTINF:-1,USA: Lex TV
+http://62.182.81.111:8000/stef01/stef01/40421
+#EXTINF:-1,USA: LifevisionTV
+http://62.182.81.111:8000/stef01/stef01/40424
+#EXTINF:-1,USA: LifevisionTV
+http://62.182.81.111:8000/stef01/stef01/40425
+#EXTINF:-1,USA: LifevisionTV
+http://62.182.81.111:8000/stef01/stef01/40426
+#EXTINF:-1,USA: Lindenwood University TV
+http://62.182.81.111:8000/stef01/stef01/40427
+#EXTINF:-1,USA: Metro Cable Network
+http://62.182.81.111:8000/stef01/stef01/40431
+#EXTINF:-1,USA: MLB Network
+http://62.182.81.111:8000/stef01/stef01/40433
+#EXTINF:-1,USA: Mobcrush
+http://62.182.81.111:8000/stef01/stef01/40437
+#EXTINF:-1,USA: Mobcrush
+http://62.182.81.111:8000/stef01/stef01/40438
+#EXTINF:-1,USA: Mobcrush
+http://62.182.81.111:8000/stef01/stef01/40439
+#EXTINF:-1,USA: Movie Kingdom
+http://62.182.81.111:8000/stef01/stef01/40440
+#EXTINF:-1,USA: MyNetwork Texas (KCWX)
+http://62.182.81.111:8000/stef01/stef01/40448
+#EXTINF:-1,USA: MyNetwork Texas (KCWX)
+http://62.182.81.111:8000/stef01/stef01/40449
+#EXTINF:-1,USA: MyNetwork Texas (KCWX)
+http://62.182.81.111:8000/stef01/stef01/40450
+#EXTINF:-1,USA: NBC 36 Charlotte NC (WCNC-TV)
+http://62.182.81.111:8000/stef01/stef01/40463
+#EXTINF:-1,USA: NBC 36 Charlotte NC (WCNC-TV)
+http://62.182.81.111:8000/stef01/stef01/40464
+#EXTINF:-1,USA: NBC 36 Charlotte NC (WCNC-TV)
+http://62.182.81.111:8000/stef01/stef01/40465
+#EXTINF:-1,USA: NBC LX
+http://62.182.81.111:8000/stef01/stef01/40478
+#EXTINF:-1,USA: New Orleans TV
+http://62.182.81.111:8000/stef01/stef01/40480
+#EXTINF:-1,USA: Newsmax TV
+http://62.182.81.111:8000/stef01/stef01/40487
+#EXTINF:-1,USA: NewsNet (USA) alternatief
+http://62.182.81.111:8000/stef01/stef01/40488
+#EXTINF:-1,USA: NewsNet (USA)
+http://62.182.81.111:8000/stef01/stef01/40489
+#EXTINF:-1,USA: Nothing Scripted
+http://62.182.81.111:8000/stef01/stef01/40492
+#EXTINF:-1,USA: NRB Network (USA)
+http://62.182.81.111:8000/stef01/stef01/40493
+#EXTINF:-1,USA: NYXT NYC
+http://62.182.81.111:8000/stef01/stef01/40494
+#EXTINF:-1,USA: OAN Encore
+http://62.182.81.111:8000/stef01/stef01/40495
+#EXTINF:-1,USA: OANN One America News Network
+http://62.182.81.111:8000/stef01/stef01/40496
+#EXTINF:-1,USA: Olelo Community Media 49
+http://62.182.81.111:8000/stef01/stef01/40498
+#EXTINF:-1,USA: Olelo Community Media 53
+http://62.182.81.111:8000/stef01/stef01/40499
+#EXTINF:-1,USA: Olelo Community Media 54
+http://62.182.81.111:8000/stef01/stef01/40500
+#EXTINF:-1,USA: Olelo Community Media 55
+http://62.182.81.111:8000/stef01/stef01/40501
+#EXTINF:-1,USA: Orange TV Orlando (USA)
+http://62.182.81.111:8000/stef01/stef01/40502
+#EXTINF:-1,USA: PBS Kids
+http://62.182.81.111:8000/stef01/stef01/40506
+#EXTINF:-1,USA: Pop
+http://62.182.81.111:8000/stef01/stef01/40508
+#EXTINF:-1,USA: Red Bull TV
+http://62.182.81.111:8000/stef01/stef01/40509
+#EXTINF:-1,USA: Revelation TV
+http://62.182.81.111:8000/stef01/stef01/40510
+#EXTINF:-1,USA: RT USA
+http://62.182.81.111:8000/stef01/stef01/40512
+#EXTINF:-1,USA: SafeTV4U2
+http://62.182.81.111:8000/stef01/stef01/40513
+#EXTINF:-1,USA: Southeastern Channel
+http://62.182.81.111:8000/stef01/stef01/40517
+#EXTINF:-1,USA: St. Charles Parish TV
+http://62.182.81.111:8000/stef01/stef01/40519
+#EXTINF:-1,USA: Stadium
+http://62.182.81.111:8000/stef01/stef01/40520
+#EXTINF:-1,USA: Street Music 4U
+http://62.182.81.111:8000/stef01/stef01/40521
+#EXTINF:-1,USA: TBD
+http://62.182.81.111:8000/stef01/stef01/40526
+#EXTINF:-1,USA: Tele Boston
+http://62.182.81.111:8000/stef01/stef01/40529
+#EXTINF:-1,USA: Tempe 11
+http://62.182.81.111:8000/stef01/stef01/40532
+#EXTINF:-1,USA: Tennis Channel Plus
+http://62.182.81.111:8000/stef01/stef01/40533
+#EXTINF:-1,USA: Tennis Channel
+http://62.182.81.111:8000/stef01/stef01/40534
+#EXTINF:-1,USA: Texas Student TV
+http://62.182.81.111:8000/stef01/stef01/40535
+#EXTINF:-1,USA: The Outdoor Cooking Channel
+http://62.182.81.111:8000/stef01/stef01/40540
+#EXTINF:-1,USA: The Weather Channel -2-
+http://62.182.81.111:8000/stef01/stef01/40543
+#EXTINF:-1,USA: The Weather Channel
+http://62.182.81.111:8000/stef01/stef01/40544
+#EXTINF:-1,USA: TMZ
+http://62.182.81.111:8000/stef01/stef01/40545
+#EXTINF:-1,USA: TSTV (USA)
+http://62.182.81.111:8000/stef01/stef01/40549
+#EXTINF:-1,USA: UALR TV
+http://62.182.81.111:8000/stef01/stef01/40551
+#EXTINF:-1,USA: UN Web TV
+http://62.182.81.111:8000/stef01/stef01/40552
+#EXTINF:-1,USA: UWW-TV UW Whitewater
+http://62.182.81.111:8000/stef01/stef01/40553
+#EXTINF:-1,USA: Voice of America (East)
+http://62.182.81.111:8000/stef01/stef01/40554
+#EXTINF:-1,USA: Voice of America (West)
+http://62.182.81.111:8000/stef01/stef01/40555
+#EXTINF:-1,USA: WBRZ 2 Plus Baton Rouge
+http://62.182.81.111:8000/stef01/stef01/40557
+#EXTINF:-1,USA: WCCA TV Worcester
+http://62.182.81.111:8000/stef01/stef01/40558
+#EXTINF:-1,USA: WCNC Breaking News Charlotte
+http://62.182.81.111:8000/stef01/stef01/40560
+#EXTINF:-1,USA: Weather Channel HD (USA)
+http://62.182.81.111:8000/stef01/stef01/40561
+#EXTINF:-1,USA: Weather Channel
+http://62.182.81.111:8000/stef01/stef01/40562
+#EXTINF:-1,USA: Weather Nation -2-
+http://62.182.81.111:8000/stef01/stef01/40563
+#EXTINF:-1,USA: Weather Nation
+http://62.182.81.111:8000/stef01/stef01/40564
+#EXTINF:-1,USA: Weather Nation-3-
+http://62.182.81.111:8000/stef01/stef01/40565
+#EXTINF:-1,USA: White Plains Community Media
+http://62.182.81.111:8000/stef01/stef01/40569
+#EXTINF:-1,USA: WHPR TV 33 Detroit  (USA)
+http://62.182.81.111:8000/stef01/stef01/40572
+#EXTINF:-1,USA: WMFD 68 Ohio
+http://62.182.81.111:8000/stef01/stef01/40575
+#EXTINF:-1,USA: WSVI-TV
+http://62.182.81.111:8000/stef01/stef01/40581
+#EXTINF:-1,USA: WTOL 11 News Toledo
+http://62.182.81.111:8000/stef01/stef01/40583
+#EXTINF:-1,USA: Youtoo America
+http://62.182.81.111:8000/stef01/stef01/40588
+#EXTINF:-1,USA: Z Living
+http://62.182.81.111:8000/stef01/stef01/40589
+#EXTINF:-1,Talking Tom Heroes 24/7
+http://62.182.81.111:8000/stef01/stef01/40659
+#EXTINF:-1,USA: Hallmark Movies & Mysteries HD
+http://62.182.81.111:8000/stef01/stef01/40690
+#EXTINF:-1,USA: Food Network
+http://62.182.81.111:8000/stef01/stef01/40691
+#EXTINF:-1,NL: BBC ONE HD FHD++
+http://62.182.81.111:8000/stef01/stef01/40724
+#EXTINF:-1,NL: MTV MUSIC24 FHD++
+http://62.182.81.111:8000/stef01/stef01/40726
+#EXTINF:-1,UK | Alibi
+http://62.182.81.111:8000/stef01/stef01/40730
+#EXTINF:-1,UK | Alibi FHD
+http://62.182.81.111:8000/stef01/stef01/40731
+#EXTINF:-1,UK | BBC4 HD
+http://62.182.81.111:8000/stef01/stef01/40732
+#EXTINF:-1,UK | Discovery History
+http://62.182.81.111:8000/stef01/stef01/40735
+#EXTINF:-1,UK | Discovery Science
+http://62.182.81.111:8000/stef01/stef01/40736
+#EXTINF:-1,UK | Fox
+http://62.182.81.111:8000/stef01/stef01/40737
+#EXTINF:-1,UK | Fox FHD
+http://62.182.81.111:8000/stef01/stef01/40738
+#EXTINF:-1,UK | Lifetime
+http://62.182.81.111:8000/stef01/stef01/40739
+#EXTINF:-1,UK | MUTV
+http://62.182.81.111:8000/stef01/stef01/40744
+#EXTINF:-1,UK | PDC DARTS 1
+http://62.182.81.111:8000/stef01/stef01/40745
+#EXTINF:-1,UK | PDC DARTS 2
+http://62.182.81.111:8000/stef01/stef01/40746
+#EXTINF:-1,UK | Pick
+http://62.182.81.111:8000/stef01/stef01/40747
+#EXTINF:-1,UK | Pop
+http://62.182.81.111:8000/stef01/stef01/40748
+#EXTINF:-1,UK | Quest Red
+http://62.182.81.111:8000/stef01/stef01/40750
+#EXTINF:-1,UK | Sky Cinema Select FHD
+http://62.182.81.111:8000/stef01/stef01/40752
+#EXTINF:-1,UK | Sky Crime FHD
+http://62.182.81.111:8000/stef01/stef01/40753
+#EXTINF:-1,UK | SKY HISTORY FHD
+http://62.182.81.111:8000/stef01/stef01/40754
+#EXTINF:-1,UK | Sky Living
+http://62.182.81.111:8000/stef01/stef01/40755
+#EXTINF:-1,UK | Sky Living HD
+http://62.182.81.111:8000/stef01/stef01/40756
+#EXTINF:-1,UK | TCM FHD
+http://62.182.81.111:8000/stef01/stef01/40757
+#EXTINF:-1,UK | Universal HD
+http://62.182.81.111:8000/stef01/stef01/40758
+#EXTINF:-1,UK | UTV HD
+http://62.182.81.111:8000/stef01/stef01/40759
+#EXTINF:-1,UK | VIRGIN MEDIA 1
+http://62.182.81.111:8000/stef01/stef01/40760
+#EXTINF:-1,USA: MSNBC HD
+http://62.182.81.111:8000/stef01/stef01/41227
+#EXTINF:-1,USA: Bet Her FHD
+http://62.182.81.111:8000/stef01/stef01/41389
+#EXTINF:-1,USA: Bet West HD
+http://62.182.81.111:8000/stef01/stef01/41391
+#EXTINF:-1,USA: LOCALS || ABC || ABC 11 (Raleigh)
+http://62.182.81.111:8000/stef01/stef01/41674
+#EXTINF:-1,USA: LOCALS || ABC || ABC ATLANTA GA WSB
+http://62.182.81.111:8000/stef01/stef01/41677
+#EXTINF:-1,USA: LOCALS || ABC || ABC BALTIMORE MD WMAR
+http://62.182.81.111:8000/stef01/stef01/41678
+#EXTINF:-1,USA: LOCALS || ABC || ABC BOSTON MA WCVB
+http://62.182.81.111:8000/stef01/stef01/41679
+#EXTINF:-1,USA: LOCALS || ABC || ABC CHICAGO IL WLS
+http://62.182.81.111:8000/stef01/stef01/41681
+#EXTINF:-1,USA: LOCALS || ABC || ABC CLEVELAND OH WEWS
+http://62.182.81.111:8000/stef01/stef01/41682
+#EXTINF:-1,USA: LOCALS || ABC || ABC DALLAS TX WFAA
+http://62.182.81.111:8000/stef01/stef01/41683
+#EXTINF:-1,USA: LOCALS || ABC || ABC DENVER CO KMGH
+http://62.182.81.111:8000/stef01/stef01/41684
+#EXTINF:-1,USA: LOCALS || ABC || ABC DETROIT MI WXYZ
+http://62.182.81.111:8000/stef01/stef01/41685
+#EXTINF:-1,USA: LOCALS || ABC || ABC FRESNO
+http://62.182.81.111:8000/stef01/stef01/41686
+#EXTINF:-1,USA: LOCALS || ABC || ABC HOUSTON TX KTRK
+http://62.182.81.111:8000/stef01/stef01/41687
+#EXTINF:-1,USA: LOCALS || ABC || ABC INDIANAPOLIS IN WRTV
+http://62.182.81.111:8000/stef01/stef01/41688
+#EXTINF:-1,USA: LOCALS || ABC || ABC KANSAS CITY MO KMBC
+http://62.182.81.111:8000/stef01/stef01/41689
+#EXTINF:-1,USA: LOCALS || ABC || ABC LOS ANGELES CA KABC
+http://62.182.81.111:8000/stef01/stef01/41690
+#EXTINF:-1,USA: LOCALS || ABC || ABC MIAMI FL WPLG
+http://62.182.81.111:8000/stef01/stef01/41691
+#EXTINF:-1,USA: LOCALS || ABC || ABC MILWAUKEE WI WISN
+http://62.182.81.111:8000/stef01/stef01/41692
+#EXTINF:-1,USA: LOCALS || ABC || ABC News HD
+http://62.182.81.111:8000/stef01/stef01/41695
+#EXTINF:-1,USA: LOCALS || ABC || ABC ORLANDO FL WFTV
+http://62.182.81.111:8000/stef01/stef01/41696
+#EXTINF:-1,USA: LOCALS || ABC || ABC Philadelphia
+http://62.182.81.111:8000/stef01/stef01/41697
+#EXTINF:-1,USA: LOCALS || ABC || ABC PHOENIX AZ KNXV
+http://62.182.81.111:8000/stef01/stef01/41698
+#EXTINF:-1,USA: LOCALS || ABC || ABC PITTSBURGH PA WTAE
+http://62.182.81.111:8000/stef01/stef01/41699
+#EXTINF:-1,USA: LOCALS || ABC || ABC RALEIGH NC WTVD
+http://62.182.81.111:8000/stef01/stef01/41700
+#EXTINF:-1,USA: LOCALS || ABC || ABC SACRAMENTO CA KXTV
+http://62.182.81.111:8000/stef01/stef01/41701
+#EXTINF:-1,USA: LOCALS || ABC || ABC Saint Paul
+http://62.182.81.111:8000/stef01/stef01/41702
+#EXTINF:-1,USA: LOCALS || ABC || ABC SAN ANTONIO TX KSAT
+http://62.182.81.111:8000/stef01/stef01/41704
+#EXTINF:-1,USA: LOCALS || ABC || ABC SAN DIEGO CA KGTV
+http://62.182.81.111:8000/stef01/stef01/41705
+#EXTINF:-1,USA: LOCALS || ABC || ABC SAN FRANCISCO CA KGO
+http://62.182.81.111:8000/stef01/stef01/41706
+#EXTINF:-1,USA: LOCALS || ABC || ABC SEATTLE WA KOMO
+http://62.182.81.111:8000/stef01/stef01/41707
+#EXTINF:-1,USA: LOCALS || ABC || ABC ST LOUIS MO KDNL
+http://62.182.81.111:8000/stef01/stef01/41708
+#EXTINF:-1,USA: LOCALS || ABC || ABC TAMPA BAY FL WFTS
+http://62.182.81.111:8000/stef01/stef01/41709
+#EXTINF:-1,USA: LOCALS || ABC || ABC WASHINGTON DC WJLA
+http://62.182.81.111:8000/stef01/stef01/41710
+#EXTINF:-1,USA: LOCALS || ABC || ABC | HD
+http://62.182.81.111:8000/stef01/stef01/41711
+#EXTINF:-1,USA: ACC NETWORK HD
+http://62.182.81.111:8000/stef01/stef01/41713
+#EXTINF:-1,USA: Animal Planet West HD
+http://62.182.81.111:8000/stef01/stef01/41715
+#EXTINF:-1,USA: Antenna TV
+http://62.182.81.111:8000/stef01/stef01/41716
+#EXTINF:-1,USA: AWE HD
+http://62.182.81.111:8000/stef01/stef01/41718
+#EXTINF:-1,USA: AXS TV HD
+http://62.182.81.111:8000/stef01/stef01/41719
+#EXTINF:-1,USA: Baby TV
+http://62.182.81.111:8000/stef01/stef01/41721
+#EXTINF:-1,USA: BBC America HD
+http://62.182.81.111:8000/stef01/stef01/41722
+#EXTINF:-1,USA: BET HER
+http://62.182.81.111:8000/stef01/stef01/41724
+#EXTINF:-1,USA: BET JAMZ
+http://62.182.81.111:8000/stef01/stef01/41725
+#EXTINF:-1,USA: BET SOUL HD
+http://62.182.81.111:8000/stef01/stef01/41726
+#EXTINF:-1,USA: Big Ten Network HD
+http://62.182.81.111:8000/stef01/stef01/41727
+#EXTINF:-1,USA: BOUNCE TV
+http://62.182.81.111:8000/stef01/stef01/41728
+#EXTINF:-1,USA: BUZZR
+http://62.182.81.111:8000/stef01/stef01/41729
+#EXTINF:-1,USA: CBS HD
+http://62.182.81.111:8000/stef01/stef01/41730
+#EXTINF:-1,USA: CMT HD
+http://62.182.81.111:8000/stef01/stef01/41732
+#EXTINF:-1,USA: CNBC HD
+http://62.182.81.111:8000/stef01/stef01/41733
+#EXTINF:-1,USA: CNBC World HD
+http://62.182.81.111:8000/stef01/stef01/41734
+#EXTINF:-1,USA: Destination America
+http://62.182.81.111:8000/stef01/stef01/41743
+#EXTINF:-1,USA: DISCOVERY FAMILIA
+http://62.182.81.111:8000/stef01/stef01/41746
+#EXTINF:-1,USA: Discovery Life HD
+http://62.182.81.111:8000/stef01/stef01/41749
+#EXTINF:-1,USA: Discovery Science HD
+http://62.182.81.111:8000/stef01/stef01/41750
+#EXTINF:-1,USA: Disney Channel HD
+http://62.182.81.111:8000/stef01/stef01/41753
+#EXTINF:-1,USA: Disney Channel WEST
+http://62.182.81.111:8000/stef01/stef01/41754
+#EXTINF:-1,USA: Disney Junior Pacific HD
+http://62.182.81.111:8000/stef01/stef01/41755
+#EXTINF:-1,USA: Disney XD East
+http://62.182.81.111:8000/stef01/stef01/41756
+#EXTINF:-1,USA: DIY NETWORK HD
+http://62.182.81.111:8000/stef01/stef01/41757
+#EXTINF:-1,USA: E! WEST
+http://62.182.81.111:8000/stef01/stef01/41758
+#EXTINF:-1,USA: El Rey
+http://62.182.81.111:8000/stef01/stef01/41759
+#EXTINF:-1,USA: Epix HD
+http://62.182.81.111:8000/stef01/stef01/41760
+#EXTINF:-1,USA: Epix HITS HD
+http://62.182.81.111:8000/stef01/stef01/41761
+#EXTINF:-1,USA: Fox Business HD
+http://62.182.81.111:8000/stef01/stef01/41763
+#EXTINF:-1,USA: FOX WEST
+http://62.182.81.111:8000/stef01/stef01/41766
+#EXTINF:-1,USA: FUSE HD
+http://62.182.81.111:8000/stef01/stef01/41769
+#EXTINF:-1,USA: FUSION HD
+http://62.182.81.111:8000/stef01/stef01/41771
+#EXTINF:-1,USA: FX East HD
+http://62.182.81.111:8000/stef01/stef01/41772
+#EXTINF:-1,USA: FX West HD
+http://62.182.81.111:8000/stef01/stef01/41773
+#EXTINF:-1,USA: FXM HD
+http://62.182.81.111:8000/stef01/stef01/41774
+#EXTINF:-1,USA: FXX East HD
+http://62.182.81.111:8000/stef01/stef01/41775
+#EXTINF:-1,USA: FXX West HD
+http://62.182.81.111:8000/stef01/stef01/41776
+#EXTINF:-1,USA: Fyi'
+http://62.182.81.111:8000/stef01/stef01/41777
+#EXTINF:-1,USA: GAME SHOW NETWORK
+http://62.182.81.111:8000/stef01/stef01/41778
+#EXTINF:-1,USA: GRIT TV
+http://62.182.81.111:8000/stef01/stef01/41779
+#EXTINF:-1,USA: GSN
+http://62.182.81.111:8000/stef01/stef01/41780
+#EXTINF:-1,USA: HGTV
+http://62.182.81.111:8000/stef01/stef01/41781
+#EXTINF:-1,USA: HGTV  East HD
+http://62.182.81.111:8000/stef01/stef01/41782
+#EXTINF:-1,USA: HLN
+http://62.182.81.111:8000/stef01/stef01/41784
+#EXTINF:-1,USA: HLN HD
+http://62.182.81.111:8000/stef01/stef01/41785
+#EXTINF:-1,USA: ME TV
+http://62.182.81.111:8000/stef01/stef01/41791
+#EXTINF:-1,USA: MSNBC
+http://62.182.81.111:8000/stef01/stef01/41793
+#EXTINF:-1,USA: MSNBC HD
+http://62.182.81.111:8000/stef01/stef01/41794
+#EXTINF:-1,USA: NBC HD
+http://62.182.81.111:8000/stef01/stef01/41800
+#EXTINF:-1,USA: NHL Network
+http://62.182.81.111:8000/stef01/stef01/41801
+#EXTINF:-1,USA: Nick Jr HD
+http://62.182.81.111:8000/stef01/stef01/41803
+#EXTINF:-1,USA: ONE AMERICA NEWS NETWORK
+http://62.182.81.111:8000/stef01/stef01/41807
+#EXTINF:-1,USA: OWN NETWORK FHD
+http://62.182.81.111:8000/stef01/stef01/41809
+#EXTINF:-1,USA: OXYGEN
+http://62.182.81.111:8000/stef01/stef01/41810
+#EXTINF:-1,USA: Sundance FHD
+http://62.182.81.111:8000/stef01/stef01/41819
+#EXTINF:-1,USA: Sundance HD
+http://62.182.81.111:8000/stef01/stef01/41820
+#EXTINF:-1,USA: Syfy East HD
+http://62.182.81.111:8000/stef01/stef01/41821
+#EXTINF:-1,USA: Tastmade HD
+http://62.182.81.111:8000/stef01/stef01/41822
+#EXTINF:-1,USA: TCM HD
+http://62.182.81.111:8000/stef01/stef01/41823
+#EXTINF:-1,USA: TLC East HD
+http://62.182.81.111:8000/stef01/stef01/41827
+#EXTINF:-1,USA: TLC West HD
+http://62.182.81.111:8000/stef01/stef01/41828
+#EXTINF:-1,USA: TNT East HD
+http://62.182.81.111:8000/stef01/stef01/41829
+#EXTINF:-1,USA: TNT West HD
+http://62.182.81.111:8000/stef01/stef01/41830
+#EXTINF:-1,USA: Travel Channel FHD
+http://62.182.81.111:8000/stef01/stef01/41831
+#EXTINF:-1,USA: Travel Channel West
+http://62.182.81.111:8000/stef01/stef01/41833
+#EXTINF:-1,USA: TRU TV East HD
+http://62.182.81.111:8000/stef01/stef01/41834
+#EXTINF:-1,USA: TRU TV West HD
+http://62.182.81.111:8000/stef01/stef01/41835
+#EXTINF:-1,USA: TV LAND FHD
+http://62.182.81.111:8000/stef01/stef01/41836
+#EXTINF:-1,USA: TV Land HD
+http://62.182.81.111:8000/stef01/stef01/41837
+#EXTINF:-1,USA: TVONE
+http://62.182.81.111:8000/stef01/stef01/41838
+#EXTINF:-1,USA: UFC Network HD
+http://62.182.81.111:8000/stef01/stef01/41839
+#EXTINF:-1,USA: UNIMAS
+http://62.182.81.111:8000/stef01/stef01/41841
+#EXTINF:-1,USA: Universal Kids HD
+http://62.182.81.111:8000/stef01/stef01/41842
+#EXTINF:-1,USA: Universal Kids HD
+http://62.182.81.111:8000/stef01/stef01/41843
+#EXTINF:-1,USA: USA: Network Pacific HD
+http://62.182.81.111:8000/stef01/stef01/41845
+#EXTINF:-1,USA: USA: Network West HD
+http://62.182.81.111:8000/stef01/stef01/41846
+#EXTINF:-1,USA: VH1 West HD
+http://62.182.81.111:8000/stef01/stef01/41848
+#EXTINF:-1,USA: VICELAND
+http://62.182.81.111:8000/stef01/stef01/41849
+#EXTINF:-1,USA: We TV FHD
+http://62.182.81.111:8000/stef01/stef01/41850
+#EXTINF:-1,USA: WE TV HD
+http://62.182.81.111:8000/stef01/stef01/41851
+#EXTINF:-1,USA: WGN America HD
+http://62.182.81.111:8000/stef01/stef01/41852
+#EXTINF:-1,USA: World Fish Network HD
+http://62.182.81.111:8000/stef01/stef01/41853
+#EXTINF:-1,USA: WORLD FISHING NETWORK
+http://62.182.81.111:8000/stef01/stef01/41854
+#EXTINF:-1,ZA: SuperSport Motorsport
+http://62.182.81.111:8000/stef01/stef01/42134
+#EXTINF:-1,ZA: SuperSport Play
+http://62.182.81.111:8000/stef01/stef01/42135
+#EXTINF:-1,ZA: SuperSport Tennis
+http://62.182.81.111:8000/stef01/stef01/42136
+#EXTINF:-1,NL: Love Nature FHD++
+http://62.182.81.111:8000/stef01/stef01/42806
+#EXTINF:-1,NL: BBC TWO HD FHD++
+http://62.182.81.111:8000/stef01/stef01/43563
+#EXTINF:-1,NL: BBC ONE HD
+http://62.182.81.111:8000/stef01/stef01/43564
+#EXTINF:-1,NL: BBC TWO FHD+
+http://62.182.81.111:8000/stef01/stef01/43565
+#EXTINF:-1,RELAX: SLEEP
+http://62.182.81.111:8000/stef01/stef01/45673
+#EXTINF:-1,RELAX: AQUARIUM
+http://62.182.81.111:8000/stef01/stef01/45674
+#EXTINF:-1,RELAX: CALMING
+http://62.182.81.111:8000/stef01/stef01/45675
+#EXTINF:-1,RELAX: EARTH
+http://62.182.81.111:8000/stef01/stef01/45676
+#EXTINF:-1,RELAX: FIRE
+http://62.182.81.111:8000/stef01/stef01/45677
+#EXTINF:-1,RELAX: MEDITIATION
+http://62.182.81.111:8000/stef01/stef01/45678
+#EXTINF:-1,RELAX: OCEANSPAPES
+http://62.182.81.111:8000/stef01/stef01/45679
+#EXTINF:-1,RELAX: PEACE
+http://62.182.81.111:8000/stef01/stef01/45680
+#EXTINF:-1,RELAX: SPACE
+http://62.182.81.111:8000/stef01/stef01/45681
+#EXTINF:-1,RELAX: SPRING
+http://62.182.81.111:8000/stef01/stef01/45682
+#EXTINF:-1,Stingray Everything 80s
+http://62.182.81.111:8000/stef01/stef01/45799
+#EXTINF:-1,Stingray Greatest Hits
+http://62.182.81.111:8000/stef01/stef01/45800
+#EXTINF:-1,Stingray Karaoke
+http://62.182.81.111:8000/stef01/stef01/45801
+#EXTINF:-1,Stingray Soul Storm
+http://62.182.81.111:8000/stef01/stef01/45802
+#EXTINF:-1,Stingray Hit List
+http://62.182.81.111:8000/stef01/stef01/26901
+#EXTINF:-1,Stingray Classic Rock
+http://62.182.81.111:8000/stef01/stef01/26902
+#EXTINF:-1,Stingray Rock Alternative
+http://62.182.81.111:8000/stef01/stef01/26903
+#EXTINF:-1,Stingray Pop Adult
+http://62.182.81.111:8000/stef01/stef01/26904
+#EXTINF:-1,Stingray Urban Beat
+http://62.182.81.111:8000/stef01/stef01/26905
+#EXTINF:-1,Stingray Hot Country
+http://62.182.81.111:8000/stef01/stef01/26906
+#EXTINF:-1,Stingray Flashback 70s
+http://62.182.81.111:8000/stef01/stef01/26907
+#EXTINF:-1,Stingray Today's Latin Pop
+http://62.182.81.111:8000/stef01/stef01/26908
+#EXTINF:-1,NBA Gamepass Milwaukee Bucks
+http://62.182.81.111:8000/stef01/stef01/50470
+#EXTINF:-1,NBA Gamepass Washington Wizards
+http://62.182.81.111:8000/stef01/stef01/50483
+#EXTINF:-1,FR: Equidia FHD+ HEVC
+http://62.182.81.111:8000/stef01/stef01/50850
+#EXTINF:-1,FR: Equidia HD
+http://62.182.81.111:8000/stef01/stef01/50851
+#EXTINF:-1,Film-Paleis Documentary : Shiny_Flakes: The Teenage Drug Lord (2021)
+http://62.182.81.111:8000/stef01/stef01/62556
+#EXTINF:-1,Film-Paleis Documentary : Mosul (2019)
+http://62.182.81.111:8000/stef01/stef01/62557
+#EXTINF:-1,Film-Paleis Documentary : Fathom (2021)
+http://62.182.81.111:8000/stef01/stef01/62558
+#EXTINF:-1,Film-Paleis Documentary : Maradona Confidencial (2018)
+http://62.182.81.111:8000/stef01/stef01/62559
+#EXTINF:-1,Film-Paleis Documentary : Framing Britney Spears (2021)
+http://62.182.81.111:8000/stef01/stef01/62560
+#EXTINF:-1,Film-Paleis Action : The Ice Road (2021)
+http://62.182.81.111:8000/stef01/stef01/62561
+#EXTINF:-1,Film-Paleis Action : They Call Me Trinity (1970)
+http://62.182.81.111:8000/stef01/stef01/62562
+#EXTINF:-1,Film-Paleis Action : Mile 22 (2018) 4K HDR
+http://62.182.81.111:8000/stef01/stef01/62563
+#EXTINF:-1,Film-Paleis Action : Terminator 2: Judgment Day (1991)
+http://62.182.81.111:8000/stef01/stef01/62659
+#EXTINF:-1,Film-Paleis Action : X-Men: Apocalypse (2016)
+http://62.182.81.111:8000/stef01/stef01/62660
+#EXTINF:-1,Film-Paleis Drama : American Gangster (2007)
+http://62.182.81.111:8000/stef01/stef01/62661
+#EXTINF:-1,Film-Paleis Drama : Sissi: The Young Empress (1956)
+http://62.182.81.111:8000/stef01/stef01/62662
+#EXTINF:-1,Film-Paleis Drama : Downton Abbey
+http://62.182.81.111:8000/stef01/stef01/62663
+#EXTINF:-1,Film-Paleis Drama : Amazing Grace (2006)
+http://62.182.81.111:8000/stef01/stef01/62664
+#EXTINF:-1,Film-Paleis Drama : Gutland
+http://62.182.81.111:8000/stef01/stef01/62665
+#EXTINF:-1,Film-Paleis Horror : Rings
+http://62.182.81.111:8000/stef01/stef01/62666
+#EXTINF:-1,Film-Paleis Horror : The Ring (2002)
+http://62.182.81.111:8000/stef01/stef01/62667
+#EXTINF:-1,Film-Paleis Horror : Saw III
+http://62.182.81.111:8000/stef01/stef01/62668
+#EXTINF:-1,Film-Paleis Horror : Friday the 13th
+http://62.182.81.111:8000/stef01/stef01/62669
+#EXTINF:-1,Film-Paleis Horror : Spare Parts (2020)
+http://62.182.81.111:8000/stef01/stef01/62670
+#EXTINF:-1,Film-Paleis Comedy : Sarah Cooper: Everything's Fine (2020)
+http://62.182.81.111:8000/stef01/stef01/62671
+#EXTINF:-1,Film-Paleis Comedy : Diggstown (1992)
+http://62.182.81.111:8000/stef01/stef01/62672
+#EXTINF:-1,Film-Paleis Comedy : The Farewell (2019)
+http://62.182.81.111:8000/stef01/stef01/62673
+#EXTINF:-1,Film-Paleis Comedy : Flodder in Amerika! (1992)
+http://62.182.81.111:8000/stef01/stef01/62674
+#EXTINF:-1,Film-Paleis Comedy : American Pie (1999)
+http://62.182.81.111:8000/stef01/stef01/62677
+#EXTINF:-1,Film-Paleis Thriller : The Stand at Paxton County
+http://62.182.81.111:8000/stef01/stef01/62678
+#EXTINF:-1,Film-Paleis Thriller : House IV
+http://62.182.81.111:8000/stef01/stef01/62679
+#EXTINF:-1,Film-Paleis Thriller : The Guardian Angel
+http://62.182.81.111:8000/stef01/stef01/62680
+#EXTINF:-1,Film-Paleis Thriller : Extinction - Jurassic Predators (2014)
+http://62.182.81.111:8000/stef01/stef01/62681
+#EXTINF:-1,Film-Paleis Thriller : Wander (2020) 4K
+http://62.182.81.111:8000/stef01/stef01/62682
+#EXTINF:-1,Film-Paleis Family : Godmothered (2020)
+http://62.182.81.111:8000/stef01/stef01/62683
+#EXTINF:-1,Film-Paleis Family : Sinterklaas en de Pepernoten Chaos (2013
+http://62.182.81.111:8000/stef01/stef01/62684
+#EXTINF:-1,Film-Paleis Family : Lady en de Vagebond (2019)
+http://62.182.81.111:8000/stef01/stef01/62685
+#EXTINF:-1,Film-Paleis Family : Baby's Day Out (1994)
+http://62.182.81.111:8000/stef01/stef01/62686
+#EXTINF:-1,Film-Paleis Family : K3 Love Cruise (2017)
+http://62.182.81.111:8000/stef01/stef01/62687
+#EXTINF:-1,Film-Paleis Science Fiction : Blade Runner
+http://62.182.81.111:8000/stef01/stef01/62688
+#EXTINF:-1,Film-Paleis Science Fiction : District 9 (2009)
+http://62.182.81.111:8000/stef01/stef01/62689
+#EXTINF:-1,Film-Paleis Science Fiction : Reminiscence (2021)
+http://62.182.81.111:8000/stef01/stef01/62690
+#EXTINF:-1,Film-Paleis Science Fiction : Invasion (2020)
+http://62.182.81.111:8000/stef01/stef01/62691
+#EXTINF:-1,Film-Paleis Science Fiction : Come True (2021)
+http://62.182.81.111:8000/stef01/stef01/62692
+#EXTINF:-1,Live Natuur: Dieren
+http://62.182.81.111:8000/stef01/stef01/63247
+#EXTINF:-1,Live Natuur: Bergen
+http://62.182.81.111:8000/stef01/stef01/63248
+#EXTINF:-1,Live Natuur: Bos
+http://62.182.81.111:8000/stef01/stef01/63249
+#EXTINF:-1,Live Natuur: Rivieren
+http://62.182.81.111:8000/stef01/stef01/63250
+#EXTINF:-1,Live Natuur: Waterval
+http://62.182.81.111:8000/stef01/stef01/63251
+#EXTINF:-1,Live Natuur: Aurora
+http://62.182.81.111:8000/stef01/stef01/63252
+#EXTINF:-1,Live Natuur: Tropen
+http://62.182.81.111:8000/stef01/stef01/63253
+#EXTINF:-1,22-08 02:00 WWE Summerslam 2021 PPV Feed 50fps
+http://62.182.81.111:8000/stef01/stef01/20560
+#EXTINF:-1,LIVE | VfL Wolfsburg - VfL Bochum | Matchday 1 – Bundesliga 2021/22
+http://62.182.81.111:8000/stef01/stef01/16821
+#EXTINF:-1,Jake Paul VS Tyron Woodley
+http://62.182.81.111:8000/stef01/stef01/41232
+#EXTINF:-1,Glory 78 4 sept Hari VS Wrzosek
+http://62.182.81.111:8000/stef01/stef01/16822
+#EXTINF:-1,EVENTS 01:
+http://62.182.81.111:8000/stef01/stef01/63316
+#EXTINF:-1,EVENTS 02:
+http://62.182.81.111:8000/stef01/stef01/63317
+#EXTINF:-1,EVENTS 03:
+http://62.182.81.111:8000/stef01/stef01/63318
+#EXTINF:-1,EVENTS 04:
+http://62.182.81.111:8000/stef01/stef01/63319
+#EXTINF:-1,EVENTS 05:
+http://62.182.81.111:8000/stef01/stef01/63320
+#EXTINF:-1,EVENTS 06:
+http://62.182.81.111:8000/stef01/stef01/63321
+#EXTINF:-1,EVENTS 07:
+http://62.182.81.111:8000/stef01/stef01/63322
+#EXTINF:-1,EVENTS 08:
+http://62.182.81.111:8000/stef01/stef01/63323
+#EXTINF:-1,EVENTS 09:
+http://62.182.81.111:8000/stef01/stef01/63324
+#EXTINF:-1,EVENTS 10:
+http://62.182.81.111:8000/stef01/stef01/63325
+#EXTINF:-1,EVENTS 11:
+http://62.182.81.111:8000/stef01/stef01/63326
+#EXTINF:-1,EVENTS 12:
+http://62.182.81.111:8000/stef01/stef01/63327
+#EXTINF:-1,EVENTS 13:
+http://62.182.81.111:8000/stef01/stef01/63328
+#EXTINF:-1,EVENTS 14:
+http://62.182.81.111:8000/stef01/stef01/63329
+#EXTINF:-1,EVENTS 15:
+http://62.182.81.111:8000/stef01/stef01/63330
+#EXTINF:-1,EVENTS 16:
+http://62.182.81.111:8000/stef01/stef01/63331
+#EXTINF:-1,EVENTS 17:
+http://62.182.81.111:8000/stef01/stef01/63332
+#EXTINF:-1,EVENTS 18:
+http://62.182.81.111:8000/stef01/stef01/63333
+#EXTINF:-1,EVENTS 19:
+http://62.182.81.111:8000/stef01/stef01/63334
+#EXTINF:-1,EVENTS 20:
+http://62.182.81.111:8000/stef01/stef01/63335
+#EXTINF:-1,EVENTS 21:
+http://62.182.81.111:8000/stef01/stef01/63336
+#EXTINF:-1,EVENTS 22:
+http://62.182.81.111:8000/stef01/stef01/63337
+#EXTINF:-1,EVENTS 23:
+http://62.182.81.111:8000/stef01/stef01/63338
+#EXTINF:-1,EVENTS 24:
+http://62.182.81.111:8000/stef01/stef01/63339
+#EXTINF:-1,EVENTS 25:
+http://62.182.81.111:8000/stef01/stef01/63340
+#EXTINF:-1,EVENTS 26:
+http://62.182.81.111:8000/stef01/stef01/63341
+#EXTINF:-1,EVENTS 27:
+http://62.182.81.111:8000/stef01/stef01/63342
+#EXTINF:-1,EVENTS 28:
+http://62.182.81.111:8000/stef01/stef01/63343
+#EXTINF:-1,EVENTS 29:
+http://62.182.81.111:8000/stef01/stef01/63344
+#EXTINF:-1,EVENTS 30:
+http://62.182.81.111:8000/stef01/stef01/63345
+#EXTINF:-1,WORLD SOCCER EVENTS 01:
+http://62.182.81.111:8000/stef01/stef01/63396
+#EXTINF:-1,WORLD SOCCER EVENTS 02:
+http://62.182.81.111:8000/stef01/stef01/63397
+#EXTINF:-1,WORLD SOCCER EVENTS 03:
+http://62.182.81.111:8000/stef01/stef01/63398
+#EXTINF:-1,WORLD SOCCER EVENTS 04:
+http://62.182.81.111:8000/stef01/stef01/63399
+#EXTINF:-1,WORLD SOCCER EVENTS 05:
+http://62.182.81.111:8000/stef01/stef01/63400
+#EXTINF:-1,WORLD SOCCER EVENTS 06:
+http://62.182.81.111:8000/stef01/stef01/63401
+#EXTINF:-1,WORLD SOCCER EVENTS 07:
+http://62.182.81.111:8000/stef01/stef01/63402
+#EXTINF:-1,WORLD SOCCER EVENTS 08:
+http://62.182.81.111:8000/stef01/stef01/63403
+#EXTINF:-1,WORLD SOCCER EVENTS 09:
+http://62.182.81.111:8000/stef01/stef01/63404
+#EXTINF:-1,WORLD SOCCER EVENTS 10:
+http://62.182.81.111:8000/stef01/stef01/63405
+#EXTINF:-1,UK: WWE Network 24
+http://62.182.81.111:8000/stef01/stef01/63434
+#EXTINF:-1,UK: WWE Channel FHD
+http://62.182.81.111:8000/stef01/stef01/63435
+#EXTINF:-1,UK: Fight Network
+http://62.182.81.111:8000/stef01/stef01/63436
+#EXTINF:-1,BS: beINsport HD
+http://62.182.81.111:8000/stef01/stef01/63833
+#EXTINF:-1,BS: bein sport UHD
+http://62.182.81.111:8000/stef01/stef01/63834
+#EXTINF:-1,BS: beIN Sport1 HD
+http://62.182.81.111:8000/stef01/stef01/63835
+#EXTINF:-1,BS: beIN Sport1 HD+
+http://62.182.81.111:8000/stef01/stef01/63836
+#EXTINF:-1,BS: beIN Sport2 HD
+http://62.182.81.111:8000/stef01/stef01/63837
+#EXTINF:-1,BS: beIN Sport2 HD+
+http://62.182.81.111:8000/stef01/stef01/63838
+#EXTINF:-1,BS: beIN Sport4 HD
+http://62.182.81.111:8000/stef01/stef01/63839
+#EXTINF:-1,BS: beIN Sport4 HD+
+http://62.182.81.111:8000/stef01/stef01/63840
+#EXTINF:-1,BS: beIN Sport5 HD
+http://62.182.81.111:8000/stef01/stef01/63841
+#EXTINF:-1,BS: beIN Sport5 HD+
+http://62.182.81.111:8000/stef01/stef01/63842
+#EXTINF:-1,BS: beIN Sport6 hd
+http://62.182.81.111:8000/stef01/stef01/63843
+#EXTINF:-1,BS: beIN Sport6 HD+
+http://62.182.81.111:8000/stef01/stef01/63844
+#EXTINF:-1,BS: beIN Sport7 HD
+http://62.182.81.111:8000/stef01/stef01/63845
+#EXTINF:-1,BS: beIN Sport7 HD+
+http://62.182.81.111:8000/stef01/stef01/63846
+#EXTINF:-1,BS: beIN Sport8 HD
+http://62.182.81.111:8000/stef01/stef01/63847
+#EXTINF:-1,BS: beIN Sport8 HD+
+http://62.182.81.111:8000/stef01/stef01/63848
+#EXTINF:-1,BS: beIN Sport9 HD
+http://62.182.81.111:8000/stef01/stef01/63849
+#EXTINF:-1,BS: beIN Sport9 HD+
+http://62.182.81.111:8000/stef01/stef01/63850
+#EXTINF:-1,BS: beIN SPORT10 HD
+http://62.182.81.111:8000/stef01/stef01/63851
+#EXTINF:-1,BS: beIN Sport10 HD+
+http://62.182.81.111:8000/stef01/stef01/63852
+#EXTINF:-1,BS: beIN Sport6 UHD
+http://62.182.81.111:8000/stef01/stef01/63853
+#EXTINF:-1,BS: Bein-Sport 9 FHD
+http://62.182.81.111:8000/stef01/stef01/63854
+#EXTINF:-1,BS: bein-Sport10 HD
+http://62.182.81.111:8000/stef01/stef01/63855
+#EXTINF:-1,BS: BEINSPORT 6 FH
+http://62.182.81.111:8000/stef01/stef01/63856
+#EXTINF:-1,BS: BEIN SPORT 6 FUHD
+http://62.182.81.111:8000/stef01/stef01/63857
+#EXTINF:-1,BS: BEINSPORT 8 FH
+http://62.182.81.111:8000/stef01/stef01/63858
+#EXTINF:-1,BS: BEINSPORT 8 FHD
+http://62.182.81.111:8000/stef01/stef01/63859
+#EXTINF:-1,BS: BEINSPORT 6 FHD
+http://62.182.81.111:8000/stef01/stef01/63860
+#EXTINF:-1,BS: bein sport 8 FUHD
+http://62.182.81.111:8000/stef01/stef01/63861
+#EXTINF:-1,BS: BEINSPORT 9 FH
+http://62.182.81.111:8000/stef01/stef01/63862
+#EXTINF:-1,BS: BEINSPORT 9 FHD
+http://62.182.81.111:8000/stef01/stef01/63863
+#EXTINF:-1,BS: BEIN SPORT9 FUHD
+http://62.182.81.111:8000/stef01/stef01/63864
+#EXTINF:-1,BS: beIN SPORT-1 720
+http://62.182.81.111:8000/stef01/stef01/63865
+#EXTINF:-1,BS: beIN SPORT-2 720
+http://62.182.81.111:8000/stef01/stef01/63866
+#EXTINF:-1,BS: beIN SPORT-3 720
+http://62.182.81.111:8000/stef01/stef01/63867
+#EXTINF:-1,BS: beIN SPORT-4 720
+http://62.182.81.111:8000/stef01/stef01/63868
+#EXTINF:-1,BS: beIN SPORT-5 720
+http://62.182.81.111:8000/stef01/stef01/63869
+#EXTINF:-1,BS: beIN SPORT-6 720
+http://62.182.81.111:8000/stef01/stef01/63870
+#EXTINF:-1,BS: beIN SPORT-7 720
+http://62.182.81.111:8000/stef01/stef01/63871
+#EXTINF:-1,BS: beIN SPORT-8 720
+http://62.182.81.111:8000/stef01/stef01/63872
+#EXTINF:-1,BS: beIN SPORT-9 720
+http://62.182.81.111:8000/stef01/stef01/63873
+#EXTINF:-1,BS: beIN SPORT-10 720
+http://62.182.81.111:8000/stef01/stef01/63874
+#EXTINF:-1,BS: beIN SPORT-1 HD
+http://62.182.81.111:8000/stef01/stef01/63875
+#EXTINF:-1,BS: beIN SPORT-2 HD
+http://62.182.81.111:8000/stef01/stef01/63876
+#EXTINF:-1,BS: beIN SPORT-3 HD
+http://62.182.81.111:8000/stef01/stef01/63877
+#EXTINF:-1,BS: beIN SPORT-4 HD
+http://62.182.81.111:8000/stef01/stef01/63878
+#EXTINF:-1,BS: beIN SPORT-5 HD
+http://62.182.81.111:8000/stef01/stef01/63879
+#EXTINF:-1,BS: beIN SPORT-6 HD
+http://62.182.81.111:8000/stef01/stef01/63880
+#EXTINF:-1,BS: beIN SPORT-7 HD
+http://62.182.81.111:8000/stef01/stef01/63881
+#EXTINF:-1,BS: beIN SPORT-8 HD
+http://62.182.81.111:8000/stef01/stef01/63882
+#EXTINF:-1,BS: beIN SPORT-9 HD
+http://62.182.81.111:8000/stef01/stef01/63883
+#EXTINF:-1,BS: beIN SPORT-10 HD
+http://62.182.81.111:8000/stef01/stef01/63884
+#EXTINF:-1,BS: beIN SPORT-1 4K
+http://62.182.81.111:8000/stef01/stef01/63885
+#EXTINF:-1,BS: beIN SPORT-2 4K
+http://62.182.81.111:8000/stef01/stef01/63886
+#EXTINF:-1,BS: beIN SPORT-3 4K
+http://62.182.81.111:8000/stef01/stef01/63887
+#EXTINF:-1,BS: beIN SPORT-4 4K
+http://62.182.81.111:8000/stef01/stef01/63888
+#EXTINF:-1,BS: beIN SPORT-5 4K
+http://62.182.81.111:8000/stef01/stef01/63889
+#EXTINF:-1,BS: beIN SPORT-6 4K
+http://62.182.81.111:8000/stef01/stef01/63890
+#EXTINF:-1,BS: beIN SPORT-7 4K
+http://62.182.81.111:8000/stef01/stef01/63891
+#EXTINF:-1,BS: beIN SPORT-8 4K
+http://62.182.81.111:8000/stef01/stef01/63892
+#EXTINF:-1,BS: beIN SPORT-9 4K
+http://62.182.81.111:8000/stef01/stef01/63893
+#EXTINF:-1,BS: beIN SPORT-10 4K
+http://62.182.81.111:8000/stef01/stef01/63894
+#EXTINF:-1,BS: beIN SPORT-11 4K
+http://62.182.81.111:8000/stef01/stef01/63895
+#EXTINF:-1,BS: beIN SPORT-12 4K
+http://62.182.81.111:8000/stef01/stef01/63896
+#EXTINF:-1,BS: beIN SPORT-13 4K
+http://62.182.81.111:8000/stef01/stef01/63897
+#EXTINF:-1,24/7: Best Christmas Movies 5
+http://62.182.81.111:8000/stef01/stef01/65578
+#EXTINF:-1,24/7: Hungry Hussey Cooking Videos
+http://62.182.81.111:8000/stef01/stef01/65579
+#EXTINF:-1,NL: 24/7 Tom en Jerry
+http://62.182.81.111:8000/stef01/stef01/66285
 
 
 
